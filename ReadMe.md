@@ -112,8 +112,8 @@ id: Denmark
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Denmark//
-markerFolder: ./Denmark//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Denmark] 
