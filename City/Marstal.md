@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.52] 
-[geo-lat::54.85] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.52] 
+[has_place_latitude::54.85] 
 [name::Marstal] 
 State ::  
 Country :: [[Denmark]]  

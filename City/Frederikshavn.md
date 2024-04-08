@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.55] 
-[geo-lat::57.43] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.55] 
+[has_place_latitude::57.43] 
 [name::Frederikshavn] 
 State ::  
 Country :: [[Denmark]]  

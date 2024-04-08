@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.92] 
-[geo-lat::54.93] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.92] 
+[has_place_latitude::54.93] 
 [name::Miang] 
 State ::  
 Country :: [[Denmark]]  

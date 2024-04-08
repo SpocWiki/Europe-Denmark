@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.87] 
-[geo-lat::54.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.87] 
+[has_place_latitude::54.95] 
 [name::Augustenburg] 
 State ::  
 Country :: [[Denmark]]  

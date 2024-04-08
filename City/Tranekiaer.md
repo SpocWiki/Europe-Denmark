@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.88] 
-[geo-lat::54.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.88] 
+[has_place_latitude::54.98] 
 [name::Tranekiaer] 
 State ::  
 Country :: [[Denmark]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.13] 
-[geo-lat::54.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.13] 
+[has_place_latitude::54.83] 
 [name::Nakskov] 
 State ::  
 Country :: [[Denmark]]  

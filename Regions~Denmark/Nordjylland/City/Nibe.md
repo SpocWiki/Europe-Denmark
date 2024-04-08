@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.67] 
-[geo-lat::56.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.67] 
+[has_place_latitude::56.98] 
 [name::Nibe] 
 State ::  
 Country :: [[Denmark]]  

@@ -128,8 +128,10 @@ Capital :: [[Copenhagen]]
 ![[Flag_of_Denmark.svg|350]] 
 [Alcohol-l::13.4] 
 [Language-Id::] 
-[geo-lon::10.5] 
-[geo-lat::55.6789] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.5] 
+[has_place_latitude::55.6789] 
 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.65] 
-[geo-lat::57.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.65] 
+[has_place_latitude::57.47] 
 [name::Hjoerring] 
 State ::  
 Country :: [[Denmark]]  

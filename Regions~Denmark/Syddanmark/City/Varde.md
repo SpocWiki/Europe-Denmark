@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.48] 
-[geo-lat::55.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.48] 
+[has_place_latitude::55.62] 
 [name::Varde] 
 State ::  
 Country :: [[Denmark]]  
