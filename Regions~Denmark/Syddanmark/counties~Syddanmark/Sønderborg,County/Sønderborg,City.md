@@ -1,16 +1,20 @@
 ---
-location: [54.92,9.8] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 54.92
+  - 9.8
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34366
 isDeleted: false
 confidential: public
-
+aliases:
+  - Sønderborg
+  - Sonderburg
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

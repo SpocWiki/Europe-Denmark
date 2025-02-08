@@ -1,30 +1,30 @@
 ---
-location: [ 57.2 , 9.9 ] 
+location:
+  - 57.2
+  - 9.9
 type: geo-Region
 title: Nordjylland
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Nordjylland
-
+  - Nordjylland
+  - North Denmark Region
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
 linkTitle: 
 keywords: 
 layout: 
 publishDate: 
-expiryDate: 
+expiryDate:
 ---
 
 # Nordjylland

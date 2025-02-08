@@ -38,6 +38,24 @@ geojsonFolder: ./Sjaælland/
 markerFolder: ./Sjaælland/
 ```
 
+## #has_/text_of_/abstract 
+
+
+> Zealand (Danish: **Sjælland** [ˈɕeˌlænˀ]) is the largest 
+> and most populous island in Denmark proper 
+> (thus excluding Greenland and Disko Island, which are larger in size) at 7,031 km2. 
+> Zealand had a population of 2,319,705 on 1 January 2020, 
+> comprising 40% of the country's population.
+>
+> Zealand is the 13th-largest island in Europe by area and the 4th most populous. It is connected to Sprogø and Funen by the Great Belt Fixed Link and to Amager by several bridges in Copenhagen. Indirectly, through the island of Amager and the Øresund Bridge, it is also linked to Scania in Sweden. In the south, the Storstrøm Bridge and the Farø Bridges connect it to Falster, and beyond that island to Lolland, from where the Fehmarnbelt Tunnel to Germany is planned.
+>
+> Copenhagen, the capital of Denmark, with a population between 1.3 and 1.4 million people in 2020, is located mostly on the eastern shore of Zealand and partly on the island of Amager. Other cities on Zealand include Roskilde, Hillerød, Næstved, Helsingør, Slagelse, Køge, Holbæk and Kalundborg.
+>
+> Administratively, Zealand is divided between two Danish regions: The Copenhagen metropolitan area and North Zealand belong to the Capital Region, while the major and more rural part of the island belongs to the Zealand Region.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Zealand)
+
+
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/Counties/Sjaælland|Sjaælland]] 
