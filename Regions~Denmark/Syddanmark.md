@@ -15,6 +15,7 @@ tags:
 aliases:
   - Syddanmark
   - Region of Southern Denmark
+  - Southern Denmark
 Languages:
   - de
 cssclasses:

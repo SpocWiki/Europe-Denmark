@@ -14,6 +14,8 @@ tags:
 - geo/Country/Region
 aliases:
 - Sjaælland
+- Region Zealand
+- Zealand
 
 Languages:
 - de
