@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Twedt|Twedt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Twedt.public|Twedt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Twedt.internal|Twedt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Twedt.protect|Twedt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Twedt.private|Twedt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Twedt.personal|Twedt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Twedt.secret|Twedt.secret]] 
+
+### [Twedt.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTwedt.public.md) 
+
+### [Twedt.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTwedt.internal.md) 
+
+### [Twedt.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTwedt.protect.md) 
+
+### [Twedt.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTwedt.private.md) 
+
+### [Twedt.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTwedt.personal.md) 
+
+### [Twedt.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTwedt.secret.md)
+

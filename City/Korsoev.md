@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Korsoev|Korsoev]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Korsoev.public|Korsoev.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Korsoev.internal|Korsoev.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Korsoev.protect|Korsoev.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Korsoev.private|Korsoev.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Korsoev.personal|Korsoev.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Korsoev.secret|Korsoev.secret]] 
+
+### [Korsoev.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityKorsoev.public.md) 
+
+### [Korsoev.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityKorsoev.internal.md) 
+
+### [Korsoev.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityKorsoev.protect.md) 
+
+### [Korsoev.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityKorsoev.private.md) 
+
+### [Korsoev.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityKorsoev.personal.md) 
+
+### [Korsoev.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityKorsoev.secret.md)
+

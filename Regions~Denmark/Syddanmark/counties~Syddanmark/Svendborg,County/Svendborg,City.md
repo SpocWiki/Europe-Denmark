@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Svendborg|Svendborg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Svendborg.public|Svendborg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Svendborg.internal|Svendborg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Svendborg.protect|Svendborg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Svendborg.private|Svendborg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Svendborg.personal|Svendborg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Svendborg.secret|Svendborg.secret]] 
+
+### [Svendborg,City.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Svendborg,CountySvendborg,City.public.md) 
+
+### [Svendborg,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Svendborg,CountySvendborg,City.internal.md) 
+
+### [Svendborg,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Svendborg,CountySvendborg,City.protect.md) 
+
+### [Svendborg,City.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Svendborg,CountySvendborg,City.private.md) 
+
+### [Svendborg,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Svendborg,CountySvendborg,City.personal.md) 
+
+### [Svendborg,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Svendborg,CountySvendborg,City.secret.md)
+

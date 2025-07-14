@@ -40,11 +40,16 @@ markerFolder: ./Midtjylland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/Counties/Midtjylland|Midtjylland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/Counties/Midtjylland.public|Midtjylland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/Counties/Midtjylland.internal|Midtjylland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/Counties/Midtjylland.protect|Midtjylland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/Counties/Midtjylland.private|Midtjylland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/Counties/Midtjylland.personal|Midtjylland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/Counties/Midtjylland.secret|Midtjylland.secret]] 
+
+### [Midtjylland.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkMidtjylland.public.md) 
+
+### [Midtjylland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkMidtjylland.internal.md) 
+
+### [Midtjylland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkMidtjylland.protect.md) 
+
+### [Midtjylland.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkMidtjylland.private.md) 
+
+### [Midtjylland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkMidtjylland.personal.md) 
+
+### [Midtjylland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkMidtjylland.secret.md)
 

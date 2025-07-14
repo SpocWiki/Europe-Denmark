@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Varde|Varde]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Varde.public|Varde.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Varde.internal|Varde.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Varde.protect|Varde.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Varde.private|Varde.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Varde.personal|Varde.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Varde.secret|Varde.secret]] 
+
+### [Varde,City.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Varde,CountyVarde,City.public.md) 
+
+### [Varde,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Varde,CountyVarde,City.internal.md) 
+
+### [Varde,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Varde,CountyVarde,City.protect.md) 
+
+### [Varde,City.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Varde,CountyVarde,City.private.md) 
+
+### [Varde,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Varde,CountyVarde,City.personal.md) 
+
+### [Varde,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Varde,CountyVarde,City.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Morup|Morup]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Morup.public|Morup.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Morup.internal|Morup.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Morup.protect|Morup.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Morup.private|Morup.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Morup.personal|Morup.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Morup.secret|Morup.secret]] 
+
+### [Morup.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMorup.public.md) 
+
+### [Morup.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMorup.internal.md) 
+
+### [Morup.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMorup.protect.md) 
+
+### [Morup.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMorup.private.md) 
+
+### [Morup.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMorup.personal.md) 
+
+### [Morup.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMorup.secret.md)
+

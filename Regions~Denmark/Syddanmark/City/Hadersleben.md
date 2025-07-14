@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Hadersleben|Hadersleben]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Hadersleben.public|Hadersleben.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Hadersleben.internal|Hadersleben.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Hadersleben.protect|Hadersleben.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Hadersleben.private|Hadersleben.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Hadersleben.personal|Hadersleben.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Hadersleben.secret|Hadersleben.secret]] 
+
+### [Hadersleben.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityHadersleben.public.md) 
+
+### [Hadersleben.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityHadersleben.internal.md) 
+
+### [Hadersleben.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityHadersleben.protect.md) 
+
+### [Hadersleben.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityHadersleben.private.md) 
+
+### [Hadersleben.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityHadersleben.personal.md) 
+
+### [Hadersleben.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityHadersleben.secret.md)
+

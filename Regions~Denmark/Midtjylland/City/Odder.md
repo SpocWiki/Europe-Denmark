@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Odder|Odder]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Odder.public|Odder.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Odder.internal|Odder.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Odder.protect|Odder.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Odder.private|Odder.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Odder.personal|Odder.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Odder.secret|Odder.secret]] 
+
+### [Odder.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityOdder.public.md) 
+
+### [Odder.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityOdder.internal.md) 
+
+### [Odder.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityOdder.protect.md) 
+
+### [Odder.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityOdder.private.md) 
+
+### [Odder.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityOdder.personal.md) 
+
+### [Odder.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityOdder.secret.md)
+

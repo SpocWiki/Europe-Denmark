@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Hjoerring|Hjoerring]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Hjoerring.public|Hjoerring.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Hjoerring.internal|Hjoerring.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Hjoerring.protect|Hjoerring.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Hjoerring.private|Hjoerring.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Hjoerring.personal|Hjoerring.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Hjoerring.secret|Hjoerring.secret]] 
+
+### [Hjoerring.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityHjoerring.public.md) 
+
+### [Hjoerring.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityHjoerring.internal.md) 
+
+### [Hjoerring.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityHjoerring.protect.md) 
+
+### [Hjoerring.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityHjoerring.private.md) 
+
+### [Hjoerring.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityHjoerring.personal.md) 
+
+### [Hjoerring.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityHjoerring.secret.md)
+

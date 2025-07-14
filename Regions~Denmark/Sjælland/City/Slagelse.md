@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Slagelse|Slagelse]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Slagelse.public|Slagelse.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Slagelse.internal|Slagelse.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Slagelse.protect|Slagelse.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Slagelse.private|Slagelse.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Slagelse.personal|Slagelse.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Slagelse.secret|Slagelse.secret]] 
+
+### [Slagelse.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CitySlagelse.public.md) 
+
+### [Slagelse.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CitySlagelse.internal.md) 
+
+### [Slagelse.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CitySlagelse.protect.md) 
+
+### [Slagelse.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CitySlagelse.private.md) 
+
+### [Slagelse.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CitySlagelse.personal.md) 
+
+### [Slagelse.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CitySlagelse.secret.md)
+

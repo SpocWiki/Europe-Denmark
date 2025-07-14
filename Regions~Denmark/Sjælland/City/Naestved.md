@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Naestved|Naestved]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Naestved.public|Naestved.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Naestved.internal|Naestved.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Naestved.protect|Naestved.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Naestved.private|Naestved.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Naestved.personal|Naestved.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Naestved.secret|Naestved.secret]] 
+
+### [Naestved.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNaestved.public.md) 
+
+### [Naestved.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNaestved.internal.md) 
+
+### [Naestved.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNaestved.protect.md) 
+
+### [Naestved.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNaestved.private.md) 
+
+### [Naestved.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNaestved.personal.md) 
+
+### [Naestved.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNaestved.secret.md)
+

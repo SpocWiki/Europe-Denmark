@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Skagen|Skagen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Skagen.public|Skagen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Skagen.internal|Skagen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Skagen.protect|Skagen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Skagen.private|Skagen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Skagen.personal|Skagen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Skagen.secret|Skagen.secret]] 
+
+### [Skagen.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CitySkagen.public.md) 
+
+### [Skagen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CitySkagen.internal.md) 
+
+### [Skagen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CitySkagen.protect.md) 
+
+### [Skagen.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CitySkagen.private.md) 
+
+### [Skagen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CitySkagen.personal.md) 
+
+### [Skagen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CitySkagen.secret.md)
+

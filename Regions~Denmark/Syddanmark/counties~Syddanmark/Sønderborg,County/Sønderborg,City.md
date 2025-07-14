@@ -38,10 +38,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Sonderburg|Sonderburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Sonderburg.public|Sonderburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Sonderburg.internal|Sonderburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Sonderburg.protect|Sonderburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Sonderburg.private|Sonderburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Sonderburg.personal|Sonderburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Sonderburg.secret|Sonderburg.secret]] 
+
+### [Sønderborg,City.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Sønderborg,CountySønderborg,City.public.md) 
+
+### [Sønderborg,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Sønderborg,CountySønderborg,City.internal.md) 
+
+### [Sønderborg,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Sønderborg,CountySønderborg,City.protect.md) 
+
+### [Sønderborg,City.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Sønderborg,CountySønderborg,City.private.md) 
+
+### [Sønderborg,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Sønderborg,CountySønderborg,City.personal.md) 
+
+### [Sønderborg,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Sønderborg,CountySønderborg,City.secret.md)
+

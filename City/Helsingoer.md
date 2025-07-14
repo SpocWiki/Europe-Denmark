@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Helsingoer|Helsingoer]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Helsingoer.public|Helsingoer.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Helsingoer.internal|Helsingoer.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Helsingoer.protect|Helsingoer.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Helsingoer.private|Helsingoer.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Helsingoer.personal|Helsingoer.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Helsingoer.secret|Helsingoer.secret]] 
+
+### [Helsingoer.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityHelsingoer.public.md) 
+
+### [Helsingoer.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityHelsingoer.internal.md) 
+
+### [Helsingoer.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityHelsingoer.protect.md) 
+
+### [Helsingoer.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityHelsingoer.private.md) 
+
+### [Helsingoer.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityHelsingoer.personal.md) 
+
+### [Helsingoer.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityHelsingoer.secret.md)
+

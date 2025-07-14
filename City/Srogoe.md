@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Srogoe|Srogoe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Srogoe.public|Srogoe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Srogoe.internal|Srogoe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Srogoe.protect|Srogoe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Srogoe.private|Srogoe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Srogoe.personal|Srogoe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Srogoe.secret|Srogoe.secret]] 
+
+### [Srogoe.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CitySrogoe.public.md) 
+
+### [Srogoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CitySrogoe.internal.md) 
+
+### [Srogoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CitySrogoe.protect.md) 
+
+### [Srogoe.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CitySrogoe.private.md) 
+
+### [Srogoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CitySrogoe.personal.md) 
+
+### [Srogoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CitySrogoe.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Ronne|Ronne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Ronne.public|Ronne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Ronne.internal|Ronne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Ronne.protect|Ronne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Ronne.private|Ronne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Ronne.personal|Ronne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Ronne.secret|Ronne.secret]] 
+
+### [Ronne.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityRonne.public.md) 
+
+### [Ronne.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityRonne.internal.md) 
+
+### [Ronne.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityRonne.protect.md) 
+
+### [Ronne.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityRonne.private.md) 
+
+### [Ronne.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityRonne.personal.md) 
+
+### [Ronne.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityRonne.secret.md)
+

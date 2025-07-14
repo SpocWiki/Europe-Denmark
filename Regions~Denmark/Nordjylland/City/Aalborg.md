@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Aalborg|Aalborg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Aalborg.public|Aalborg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Aalborg.internal|Aalborg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Aalborg.protect|Aalborg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Aalborg.private|Aalborg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Aalborg.personal|Aalborg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Aalborg.secret|Aalborg.secret]] 
+
+### [Aalborg.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityAalborg.public.md) 
+
+### [Aalborg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityAalborg.internal.md) 
+
+### [Aalborg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityAalborg.protect.md) 
+
+### [Aalborg.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityAalborg.private.md) 
+
+### [Aalborg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityAalborg.personal.md) 
+
+### [Aalborg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityAalborg.secret.md)
+

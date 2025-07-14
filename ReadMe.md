@@ -132,12 +132,17 @@ Capital :: [[Copenhagen]]
 [has_place_latitude::55.6789] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark|Denmark]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~North/Denmark.public|Denmark.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark.internal|Denmark.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark.protect|Denmark.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~North/Denmark.private|Denmark.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark.personal|Denmark.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark.secret|Denmark.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~North\DenmarkReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~North\DenmarkReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~North\DenmarkReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~North\DenmarkReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~North\DenmarkReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~North\DenmarkReadMe.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Loegumkloster|Loegumkloster]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Loegumkloster.public|Loegumkloster.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Loegumkloster.internal|Loegumkloster.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Loegumkloster.protect|Loegumkloster.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Loegumkloster.private|Loegumkloster.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Loegumkloster.personal|Loegumkloster.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Loegumkloster.secret|Loegumkloster.secret]] 
+
+### [Loegumkloster.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityLoegumkloster.public.md) 
+
+### [Loegumkloster.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityLoegumkloster.internal.md) 
+
+### [Loegumkloster.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityLoegumkloster.protect.md) 
+
+### [Loegumkloster.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityLoegumkloster.private.md) 
+
+### [Loegumkloster.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityLoegumkloster.personal.md) 
+
+### [Loegumkloster.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityLoegumkloster.secret.md)
+

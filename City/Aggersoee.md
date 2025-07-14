@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Aggersoee|Aggersoee]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Aggersoee.public|Aggersoee.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Aggersoee.internal|Aggersoee.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Aggersoee.protect|Aggersoee.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Aggersoee.private|Aggersoee.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Aggersoee.personal|Aggersoee.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Aggersoee.secret|Aggersoee.secret]] 
+
+### [Aggersoee.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityAggersoee.public.md) 
+
+### [Aggersoee.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityAggersoee.internal.md) 
+
+### [Aggersoee.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityAggersoee.protect.md) 
+
+### [Aggersoee.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityAggersoee.private.md) 
+
+### [Aggersoee.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityAggersoee.personal.md) 
+
+### [Aggersoee.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityAggersoee.secret.md)
+

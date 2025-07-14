@@ -41,11 +41,16 @@ markerFolder: ./Syddanmark/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/Counties/Syddanmark|Syddanmark]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/Counties/Syddanmark.public|Syddanmark.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/Counties/Syddanmark.internal|Syddanmark.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/Counties/Syddanmark.protect|Syddanmark.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/Counties/Syddanmark.private|Syddanmark.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/Counties/Syddanmark.personal|Syddanmark.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/Counties/Syddanmark.secret|Syddanmark.secret]] 
+
+### [Syddanmark.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkSyddanmark.public.md) 
+
+### [Syddanmark.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkSyddanmark.internal.md) 
+
+### [Syddanmark.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkSyddanmark.protect.md) 
+
+### [Syddanmark.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkSyddanmark.private.md) 
+
+### [Syddanmark.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkSyddanmark.personal.md) 
+
+### [Syddanmark.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkSyddanmark.secret.md)
 

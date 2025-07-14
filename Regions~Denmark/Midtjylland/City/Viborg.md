@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Viborg|Viborg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Viborg.public|Viborg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Viborg.internal|Viborg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Viborg.protect|Viborg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Viborg.private|Viborg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Viborg.personal|Viborg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Viborg.secret|Viborg.secret]] 
+
+### [Viborg.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityViborg.public.md) 
+
+### [Viborg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityViborg.internal.md) 
+
+### [Viborg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityViborg.protect.md) 
+
+### [Viborg.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityViborg.private.md) 
+
+### [Viborg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityViborg.personal.md) 
+
+### [Viborg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityViborg.secret.md)
+

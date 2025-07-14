@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Augustenburg|Augustenburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Augustenburg.public|Augustenburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Augustenburg.internal|Augustenburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Augustenburg.protect|Augustenburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Augustenburg.private|Augustenburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Augustenburg.personal|Augustenburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Augustenburg.secret|Augustenburg.secret]] 
+
+### [Augustenburg.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityAugustenburg.public.md) 
+
+### [Augustenburg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityAugustenburg.internal.md) 
+
+### [Augustenburg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityAugustenburg.protect.md) 
+
+### [Augustenburg.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityAugustenburg.private.md) 
+
+### [Augustenburg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityAugustenburg.personal.md) 
+
+### [Augustenburg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityAugustenburg.secret.md)
+

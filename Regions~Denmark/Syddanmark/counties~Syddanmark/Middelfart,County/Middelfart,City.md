@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Middelfart|Middelfart]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Middelfart.public|Middelfart.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Middelfart.internal|Middelfart.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Middelfart.protect|Middelfart.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Middelfart.private|Middelfart.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Middelfart.personal|Middelfart.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Middelfart.secret|Middelfart.secret]] 
+
+### [Middelfart,City.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Middelfart,CountyMiddelfart,City.public.md) 
+
+### [Middelfart,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Middelfart,CountyMiddelfart,City.internal.md) 
+
+### [Middelfart,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Middelfart,CountyMiddelfart,City.protect.md) 
+
+### [Middelfart,City.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Middelfart,CountyMiddelfart,City.private.md) 
+
+### [Middelfart,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Middelfart,CountyMiddelfart,City.personal.md) 
+
+### [Middelfart,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Middelfart,CountyMiddelfart,City.secret.md)
+

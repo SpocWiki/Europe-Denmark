@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Odense|Odense]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Odense.public|Odense.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Odense.internal|Odense.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Odense.protect|Odense.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Odense.private|Odense.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Odense.personal|Odense.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Odense.secret|Odense.secret]] 
+
+### [Odense,City.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Odense,CountyOdense,City.public.md) 
+
+### [Odense,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Odense,CountyOdense,City.internal.md) 
+
+### [Odense,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Odense,CountyOdense,City.protect.md) 
+
+### [Odense,City.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Odense,CountyOdense,City.private.md) 
+
+### [Odense,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Odense,CountyOdense,City.personal.md) 
+
+### [Odense,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Odense,CountyOdense,City.secret.md)
+

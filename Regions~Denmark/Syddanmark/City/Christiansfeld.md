@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Christiansfeld|Christiansfeld]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Christiansfeld.public|Christiansfeld.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Christiansfeld.internal|Christiansfeld.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Christiansfeld.protect|Christiansfeld.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Christiansfeld.private|Christiansfeld.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Christiansfeld.personal|Christiansfeld.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Christiansfeld.secret|Christiansfeld.secret]] 
+
+### [Christiansfeld.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityChristiansfeld.public.md) 
+
+### [Christiansfeld.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityChristiansfeld.internal.md) 
+
+### [Christiansfeld.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityChristiansfeld.protect.md) 
+
+### [Christiansfeld.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityChristiansfeld.private.md) 
+
+### [Christiansfeld.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityChristiansfeld.personal.md) 
+
+### [Christiansfeld.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityChristiansfeld.secret.md)
+

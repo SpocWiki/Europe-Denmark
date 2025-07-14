@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Vejle|Vejle]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Vejle.public|Vejle.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Vejle.internal|Vejle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Vejle.protect|Vejle.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Vejle.private|Vejle.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Vejle.personal|Vejle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Vejle.secret|Vejle.secret]] 
+
+### [Vejle,City.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Vejle,CountyVejle,City.public.md) 
+
+### [Vejle,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Vejle,CountyVejle,City.internal.md) 
+
+### [Vejle,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Vejle,CountyVejle,City.protect.md) 
+
+### [Vejle,City.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Vejle,CountyVejle,City.private.md) 
+
+### [Vejle,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Vejle,CountyVejle,City.personal.md) 
+
+### [Vejle,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Vejle,CountyVejle,City.secret.md)
+

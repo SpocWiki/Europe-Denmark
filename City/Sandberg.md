@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Sandberg|Sandberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Sandberg.public|Sandberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Sandberg.internal|Sandberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Sandberg.protect|Sandberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Sandberg.private|Sandberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Sandberg.personal|Sandberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Sandberg.secret|Sandberg.secret]] 
+
+### [Sandberg.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CitySandberg.public.md) 
+
+### [Sandberg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CitySandberg.internal.md) 
+
+### [Sandberg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CitySandberg.protect.md) 
+
+### [Sandberg.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CitySandberg.private.md) 
+
+### [Sandberg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CitySandberg.personal.md) 
+
+### [Sandberg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CitySandberg.secret.md)
+

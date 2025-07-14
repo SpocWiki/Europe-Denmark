@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Skive|Skive]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Skive.public|Skive.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Skive.internal|Skive.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Skive.protect|Skive.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Skive.private|Skive.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Skive.personal|Skive.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Skive.secret|Skive.secret]] 
+
+### [Skive.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CitySkive.public.md) 
+
+### [Skive.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CitySkive.internal.md) 
+
+### [Skive.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CitySkive.protect.md) 
+
+### [Skive.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CitySkive.private.md) 
+
+### [Skive.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CitySkive.personal.md) 
+
+### [Skive.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CitySkive.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Marstal|Marstal]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Marstal.public|Marstal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Marstal.internal|Marstal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Marstal.protect|Marstal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Marstal.private|Marstal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Marstal.personal|Marstal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Marstal.secret|Marstal.secret]] 
+
+### [Marstal.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityMarstal.public.md) 
+
+### [Marstal.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityMarstal.internal.md) 
+
+### [Marstal.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityMarstal.protect.md) 
+
+### [Marstal.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityMarstal.private.md) 
+
+### [Marstal.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityMarstal.personal.md) 
+
+### [Marstal.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityMarstal.secret.md)
+

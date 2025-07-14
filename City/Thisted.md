@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Thisted|Thisted]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Thisted.public|Thisted.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Thisted.internal|Thisted.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Thisted.protect|Thisted.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Thisted.private|Thisted.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Thisted.personal|Thisted.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Thisted.secret|Thisted.secret]] 
+
+### [Thisted.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityThisted.public.md) 
+
+### [Thisted.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityThisted.internal.md) 
+
+### [Thisted.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityThisted.protect.md) 
+
+### [Thisted.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityThisted.private.md) 
+
+### [Thisted.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityThisted.personal.md) 
+
+### [Thisted.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityThisted.secret.md)
+

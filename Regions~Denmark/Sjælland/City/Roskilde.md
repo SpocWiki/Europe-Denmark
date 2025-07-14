@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Roskilde|Roskilde]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Roskilde.public|Roskilde.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Roskilde.internal|Roskilde.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Roskilde.protect|Roskilde.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Roskilde.private|Roskilde.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Roskilde.personal|Roskilde.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Roskilde.secret|Roskilde.secret]] 
+
+### [Roskilde.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityRoskilde.public.md) 
+
+### [Roskilde.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityRoskilde.internal.md) 
+
+### [Roskilde.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityRoskilde.protect.md) 
+
+### [Roskilde.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityRoskilde.private.md) 
+
+### [Roskilde.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityRoskilde.personal.md) 
+
+### [Roskilde.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityRoskilde.secret.md)
+

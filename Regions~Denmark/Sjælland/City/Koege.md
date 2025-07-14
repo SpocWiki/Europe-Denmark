@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Koege|Koege]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Koege.public|Koege.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Koege.internal|Koege.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Koege.protect|Koege.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Koege.private|Koege.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Koege.personal|Koege.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Koege.secret|Koege.secret]] 
+
+### [Koege.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityKoege.public.md) 
+
+### [Koege.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityKoege.internal.md) 
+
+### [Koege.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityKoege.protect.md) 
+
+### [Koege.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityKoege.private.md) 
+
+### [Koege.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityKoege.personal.md) 
+
+### [Koege.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityKoege.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Tingleff|Tingleff]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Tingleff.public|Tingleff.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Tingleff.internal|Tingleff.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Tingleff.protect|Tingleff.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Tingleff.private|Tingleff.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Tingleff.personal|Tingleff.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Tingleff.secret|Tingleff.secret]] 
+
+### [Tingleff.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTingleff.public.md) 
+
+### [Tingleff.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTingleff.internal.md) 
+
+### [Tingleff.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTingleff.protect.md) 
+
+### [Tingleff.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTingleff.private.md) 
+
+### [Tingleff.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTingleff.personal.md) 
+
+### [Tingleff.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTingleff.secret.md)
+

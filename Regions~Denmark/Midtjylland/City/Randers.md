@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Randers|Randers]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Randers.public|Randers.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Randers.internal|Randers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Randers.protect|Randers.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Randers.private|Randers.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Randers.personal|Randers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Randers.secret|Randers.secret]] 
+
+### [Randers.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityRanders.public.md) 
+
+### [Randers.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityRanders.internal.md) 
+
+### [Randers.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityRanders.protect.md) 
+
+### [Randers.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityRanders.private.md) 
+
+### [Randers.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityRanders.personal.md) 
+
+### [Randers.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityRanders.secret.md)
+

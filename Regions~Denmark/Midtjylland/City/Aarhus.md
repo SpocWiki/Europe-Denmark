@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Aarhus|Aarhus]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Aarhus.public|Aarhus.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Aarhus.internal|Aarhus.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Aarhus.protect|Aarhus.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Aarhus.private|Aarhus.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Aarhus.personal|Aarhus.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Aarhus.secret|Aarhus.secret]] 
+
+### [Aarhus.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityAarhus.public.md) 
+
+### [Aarhus.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityAarhus.internal.md) 
+
+### [Aarhus.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityAarhus.protect.md) 
+
+### [Aarhus.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityAarhus.private.md) 
+
+### [Aarhus.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityAarhus.personal.md) 
+
+### [Aarhus.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityAarhus.secret.md)
+

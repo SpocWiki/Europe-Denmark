@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Kronberg|Kronberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Kronberg.public|Kronberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Kronberg.internal|Kronberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Kronberg.protect|Kronberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Kronberg.private|Kronberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Kronberg.personal|Kronberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Kronberg.secret|Kronberg.secret]] 
+
+### [Kronberg.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityKronberg.public.md) 
+
+### [Kronberg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityKronberg.internal.md) 
+
+### [Kronberg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityKronberg.protect.md) 
+
+### [Kronberg.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityKronberg.private.md) 
+
+### [Kronberg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityKronberg.personal.md) 
+
+### [Kronberg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityKronberg.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Sweden/City/Nykobing|Nykobing]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Sweden/City/Nykobing.public|Nykobing.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Sweden/City/Nykobing.internal|Nykobing.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Sweden/City/Nykobing.protect|Nykobing.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Sweden/City/Nykobing.private|Nykobing.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Sweden/City/Nykobing.personal|Nykobing.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Sweden/City/Nykobing.secret|Nykobing.secret]] 
+
+### [Nykobing.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNykobing.public.md) 
+
+### [Nykobing.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNykobing.internal.md) 
+
+### [Nykobing.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNykobing.protect.md) 
+
+### [Nykobing.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNykobing.private.md) 
+
+### [Nykobing.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNykobing.personal.md) 
+
+### [Nykobing.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNykobing.secret.md)
+

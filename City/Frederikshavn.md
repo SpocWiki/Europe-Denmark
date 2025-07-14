@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Frederikshavn|Frederikshavn]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.public|Frederikshavn.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.internal|Frederikshavn.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.protect|Frederikshavn.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.private|Frederikshavn.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.personal|Frederikshavn.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.secret|Frederikshavn.secret]] 
+
+### [Frederikshavn.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityFrederikshavn.public.md) 
+
+### [Frederikshavn.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityFrederikshavn.internal.md) 
+
+### [Frederikshavn.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityFrederikshavn.protect.md) 
+
+### [Frederikshavn.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityFrederikshavn.private.md) 
+
+### [Frederikshavn.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityFrederikshavn.personal.md) 
+
+### [Frederikshavn.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityFrederikshavn.secret.md)
+

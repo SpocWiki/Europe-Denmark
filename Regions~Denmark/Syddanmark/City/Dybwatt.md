@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Dybwatt|Dybwatt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Dybwatt.public|Dybwatt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Dybwatt.internal|Dybwatt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Dybwatt.protect|Dybwatt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Dybwatt.private|Dybwatt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Dybwatt.personal|Dybwatt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Dybwatt.secret|Dybwatt.secret]] 
+
+### [Dybwatt.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityDybwatt.public.md) 
+
+### [Dybwatt.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityDybwatt.internal.md) 
+
+### [Dybwatt.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityDybwatt.protect.md) 
+
+### [Dybwatt.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityDybwatt.private.md) 
+
+### [Dybwatt.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityDybwatt.personal.md) 
+
+### [Dybwatt.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityDybwatt.secret.md)
+

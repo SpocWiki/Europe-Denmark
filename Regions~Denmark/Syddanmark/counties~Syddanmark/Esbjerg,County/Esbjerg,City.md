@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Esbjerg|Esbjerg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Esbjerg.public|Esbjerg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Esbjerg.internal|Esbjerg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Esbjerg.protect|Esbjerg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Esbjerg.private|Esbjerg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Esbjerg.personal|Esbjerg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Esbjerg.secret|Esbjerg.secret]] 
+
+### [Esbjerg,City.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Esbjerg,CountyEsbjerg,City.public.md) 
+
+### [Esbjerg,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Esbjerg,CountyEsbjerg,City.internal.md) 
+
+### [Esbjerg,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Esbjerg,CountyEsbjerg,City.protect.md) 
+
+### [Esbjerg,City.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Esbjerg,CountyEsbjerg,City.private.md) 
+
+### [Esbjerg,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Esbjerg,CountyEsbjerg,City.personal.md) 
+
+### [Esbjerg,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Esbjerg,CountyEsbjerg,City.secret.md)
+

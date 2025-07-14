@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Frederiksborg|Frederiksborg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Frederiksborg.public|Frederiksborg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Frederiksborg.internal|Frederiksborg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Frederiksborg.protect|Frederiksborg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Frederiksborg.private|Frederiksborg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Frederiksborg.personal|Frederiksborg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Frederiksborg.secret|Frederiksborg.secret]] 
+
+### [Frederiksborg.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityFrederiksborg.public.md) 
+
+### [Frederiksborg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityFrederiksborg.internal.md) 
+
+### [Frederiksborg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityFrederiksborg.protect.md) 
+
+### [Frederiksborg.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityFrederiksborg.private.md) 
+
+### [Frederiksborg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityFrederiksborg.personal.md) 
+
+### [Frederiksborg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityFrederiksborg.secret.md)
+

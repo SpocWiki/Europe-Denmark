@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Fladstrand|Fladstrand]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Fladstrand.public|Fladstrand.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Fladstrand.internal|Fladstrand.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Fladstrand.protect|Fladstrand.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Fladstrand.private|Fladstrand.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Fladstrand.personal|Fladstrand.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Fladstrand.secret|Fladstrand.secret]] 
+
+### [Fladstrand.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityFladstrand.public.md) 
+
+### [Fladstrand.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityFladstrand.internal.md) 
+
+### [Fladstrand.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityFladstrand.protect.md) 
+
+### [Fladstrand.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityFladstrand.private.md) 
+
+### [Fladstrand.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityFladstrand.personal.md) 
+
+### [Fladstrand.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityFladstrand.secret.md)
+

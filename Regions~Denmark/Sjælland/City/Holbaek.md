@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Holbaek|Holbaek]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Holbaek.public|Holbaek.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Holbaek.internal|Holbaek.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Holbaek.protect|Holbaek.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Holbaek.private|Holbaek.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Holbaek.personal|Holbaek.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Holbaek.secret|Holbaek.secret]] 
+
+### [Holbaek.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityHolbaek.public.md) 
+
+### [Holbaek.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityHolbaek.internal.md) 
+
+### [Holbaek.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityHolbaek.protect.md) 
+
+### [Holbaek.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityHolbaek.private.md) 
+
+### [Holbaek.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityHolbaek.personal.md) 
+
+### [Holbaek.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityHolbaek.secret.md)
+

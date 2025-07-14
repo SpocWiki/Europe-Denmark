@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Denmark/City/Tranekiaer|Tranekiaer]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.public|Tranekiaer.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.internal|Tranekiaer.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.protect|Tranekiaer.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.private|Tranekiaer.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.personal|Tranekiaer.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.secret|Tranekiaer.secret]] 
+
+### [Tranekiaer.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityTranekiaer.public.md) 
+
+### [Tranekiaer.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityTranekiaer.internal.md) 
+
+### [Tranekiaer.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityTranekiaer.protect.md) 
+
+### [Tranekiaer.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityTranekiaer.private.md) 
+
+### [Tranekiaer.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityTranekiaer.personal.md) 
+
+### [Tranekiaer.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityTranekiaer.secret.md)
+
