@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Middelfart,City.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Middelfart,CountyMiddelfart,City.public.md) 
+### [Middelfart,City](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Middelfart,County/Middelfart,City.md) 
 
-### [Middelfart,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Middelfart,CountyMiddelfart,City.internal.md) 
+### [Middelfart,City.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Middelfart,County/Middelfart,City.public.md) 
 
-### [Middelfart,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Middelfart,CountyMiddelfart,City.protect.md) 
+### [Middelfart,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Middelfart,County/Middelfart,City.internal.md) 
 
-### [Middelfart,City.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Middelfart,CountyMiddelfart,City.private.md) 
+### [Middelfart,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Middelfart,County/Middelfart,City.protect.md) 
 
-### [Middelfart,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Middelfart,CountyMiddelfart,City.personal.md) 
+### [Middelfart,City.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Middelfart,County/Middelfart,City.private.md) 
 
-### [Middelfart,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Middelfart,CountyMiddelfart,City.secret.md)
+### [Middelfart,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Middelfart,County/Middelfart,City.personal.md) 
+
+### [Middelfart,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Middelfart,County/Middelfart,City.secret.md)
 

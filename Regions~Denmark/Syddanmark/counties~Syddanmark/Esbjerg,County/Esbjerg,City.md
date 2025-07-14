@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Esbjerg,City.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Esbjerg,CountyEsbjerg,City.public.md) 
+### [Esbjerg,City](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.md) 
 
-### [Esbjerg,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Esbjerg,CountyEsbjerg,City.internal.md) 
+### [Esbjerg,City.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.public.md) 
 
-### [Esbjerg,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Esbjerg,CountyEsbjerg,City.protect.md) 
+### [Esbjerg,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.internal.md) 
 
-### [Esbjerg,City.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Esbjerg,CountyEsbjerg,City.private.md) 
+### [Esbjerg,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.protect.md) 
 
-### [Esbjerg,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Esbjerg,CountyEsbjerg,City.personal.md) 
+### [Esbjerg,City.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.private.md) 
 
-### [Esbjerg,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Esbjerg,CountyEsbjerg,City.secret.md)
+### [Esbjerg,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.personal.md) 
+
+### [Esbjerg,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.secret.md)
 

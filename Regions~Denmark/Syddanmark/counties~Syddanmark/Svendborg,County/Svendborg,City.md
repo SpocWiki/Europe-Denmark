@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Svendborg,City.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Svendborg,CountySvendborg,City.public.md) 
+### [Svendborg,City](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Svendborg,County/Svendborg,City.md) 
 
-### [Svendborg,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Svendborg,CountySvendborg,City.internal.md) 
+### [Svendborg,City.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Svendborg,County/Svendborg,City.public.md) 
 
-### [Svendborg,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Svendborg,CountySvendborg,City.protect.md) 
+### [Svendborg,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Svendborg,County/Svendborg,City.internal.md) 
 
-### [Svendborg,City.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Svendborg,CountySvendborg,City.private.md) 
+### [Svendborg,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Svendborg,County/Svendborg,City.protect.md) 
 
-### [Svendborg,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Svendborg,CountySvendborg,City.personal.md) 
+### [Svendborg,City.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Svendborg,County/Svendborg,City.private.md) 
 
-### [Svendborg,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Svendborg,CountySvendborg,City.secret.md)
+### [Svendborg,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Svendborg,County/Svendborg,City.personal.md) 
+
+### [Svendborg,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Svendborg,County/Svendborg,City.secret.md)
 

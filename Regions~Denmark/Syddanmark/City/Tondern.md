@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tondern.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTondern.public.md) 
+### [Tondern](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Tondern.md) 
 
-### [Tondern.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTondern.internal.md) 
+### [Tondern.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Tondern.public.md) 
 
-### [Tondern.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTondern.protect.md) 
+### [Tondern.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Tondern.internal.md) 
 
-### [Tondern.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTondern.private.md) 
+### [Tondern.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Tondern.protect.md) 
 
-### [Tondern.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTondern.personal.md) 
+### [Tondern.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Tondern.private.md) 
 
-### [Tondern.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityTondern.secret.md)
+### [Tondern.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Tondern.personal.md) 
+
+### [Tondern.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Tondern.secret.md)
 

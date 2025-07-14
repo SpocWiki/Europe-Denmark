@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Herning.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityHerning.public.md) 
+### [Herning](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Midtjylland/City/Herning.md) 
 
-### [Herning.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityHerning.internal.md) 
+### [Herning.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Midtjylland/City/Herning.public.md) 
 
-### [Herning.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityHerning.protect.md) 
+### [Herning.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Midtjylland/City/Herning.internal.md) 
 
-### [Herning.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityHerning.private.md) 
+### [Herning.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Midtjylland/City/Herning.protect.md) 
 
-### [Herning.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityHerning.personal.md) 
+### [Herning.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Midtjylland/City/Herning.private.md) 
 
-### [Herning.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Midtjylland\CityHerning.secret.md)
+### [Herning.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Midtjylland/City/Herning.personal.md) 
+
+### [Herning.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Midtjylland/City/Herning.secret.md)
 

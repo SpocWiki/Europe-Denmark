@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nakskov.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNakskov.public.md) 
+### [Nakskov](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Nakskov.md) 
 
-### [Nakskov.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNakskov.internal.md) 
+### [Nakskov.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Nakskov.public.md) 
 
-### [Nakskov.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNakskov.protect.md) 
+### [Nakskov.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Nakskov.internal.md) 
 
-### [Nakskov.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNakskov.private.md) 
+### [Nakskov.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Nakskov.protect.md) 
 
-### [Nakskov.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNakskov.personal.md) 
+### [Nakskov.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Nakskov.private.md) 
 
-### [Nakskov.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNakskov.secret.md)
+### [Nakskov.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Nakskov.personal.md) 
+
+### [Nakskov.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Nakskov.secret.md)
 

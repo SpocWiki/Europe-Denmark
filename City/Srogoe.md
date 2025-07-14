@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Srogoe.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CitySrogoe.public.md) 
+### [Srogoe](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.md) 
 
-### [Srogoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CitySrogoe.internal.md) 
+### [Srogoe.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.public.md) 
 
-### [Srogoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CitySrogoe.protect.md) 
+### [Srogoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.internal.md) 
 
-### [Srogoe.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CitySrogoe.private.md) 
+### [Srogoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.protect.md) 
 
-### [Srogoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CitySrogoe.personal.md) 
+### [Srogoe.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.private.md) 
 
-### [Srogoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CitySrogoe.secret.md)
+### [Srogoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.personal.md) 
+
+### [Srogoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Copenhagen.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityCopenhagen.public.md) 
+### [Copenhagen](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen.md) 
 
-### [Copenhagen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityCopenhagen.internal.md) 
+### [Copenhagen.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen.public.md) 
 
-### [Copenhagen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityCopenhagen.protect.md) 
+### [Copenhagen.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen.internal.md) 
 
-### [Copenhagen.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityCopenhagen.private.md) 
+### [Copenhagen.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen.protect.md) 
 
-### [Copenhagen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityCopenhagen.personal.md) 
+### [Copenhagen.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen.private.md) 
 
-### [Copenhagen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Hovedstaden\CityCopenhagen.secret.md)
+### [Copenhagen.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen.personal.md) 
+
+### [Copenhagen.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen.secret.md)
 

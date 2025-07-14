@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Soro.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CitySoro.public.md) 
+### [Soro](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Soro.md) 
 
-### [Soro.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CitySoro.internal.md) 
+### [Soro.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Soro.public.md) 
 
-### [Soro.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CitySoro.protect.md) 
+### [Soro.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Soro.internal.md) 
 
-### [Soro.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CitySoro.private.md) 
+### [Soro.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Soro.protect.md) 
 
-### [Soro.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CitySoro.personal.md) 
+### [Soro.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Soro.private.md) 
 
-### [Soro.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CitySoro.secret.md)
+### [Soro.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Soro.personal.md) 
+
+### [Soro.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Soro.secret.md)
 

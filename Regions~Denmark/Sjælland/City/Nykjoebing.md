@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nykjoebing.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNykjoebing.public.md) 
+### [Nykjoebing](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Nykjoebing.md) 
 
-### [Nykjoebing.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNykjoebing.internal.md) 
+### [Nykjoebing.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Nykjoebing.public.md) 
 
-### [Nykjoebing.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNykjoebing.protect.md) 
+### [Nykjoebing.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Nykjoebing.internal.md) 
 
-### [Nykjoebing.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNykjoebing.private.md) 
+### [Nykjoebing.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Nykjoebing.protect.md) 
 
-### [Nykjoebing.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNykjoebing.personal.md) 
+### [Nykjoebing.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Nykjoebing.private.md) 
 
-### [Nykjoebing.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Sjælland\CityNykjoebing.secret.md)
+### [Nykjoebing.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Nykjoebing.personal.md) 
+
+### [Nykjoebing.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Nykjoebing.secret.md)
 

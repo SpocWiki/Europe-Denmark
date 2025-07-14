@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Miang.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityMiang.public.md) 
+### [Miang](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Miang.md) 
 
-### [Miang.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityMiang.internal.md) 
+### [Miang.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Miang.public.md) 
 
-### [Miang.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityMiang.protect.md) 
+### [Miang.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Miang.internal.md) 
 
-### [Miang.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityMiang.private.md) 
+### [Miang.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Miang.protect.md) 
 
-### [Miang.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityMiang.personal.md) 
+### [Miang.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Miang.private.md) 
 
-### [Miang.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityMiang.secret.md)
+### [Miang.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Miang.personal.md) 
+
+### [Miang.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Miang.secret.md)
 

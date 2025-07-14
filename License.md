@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~North\DenmarkLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~North\DenmarkLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~North\DenmarkLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~North\DenmarkLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~North\DenmarkLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~North\DenmarkLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/License.secret.md)
 

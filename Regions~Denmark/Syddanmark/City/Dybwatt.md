@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dybwatt.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityDybwatt.public.md) 
+### [Dybwatt](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Dybwatt.md) 
 
-### [Dybwatt.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityDybwatt.internal.md) 
+### [Dybwatt.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Dybwatt.public.md) 
 
-### [Dybwatt.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityDybwatt.protect.md) 
+### [Dybwatt.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Dybwatt.internal.md) 
 
-### [Dybwatt.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityDybwatt.private.md) 
+### [Dybwatt.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Dybwatt.protect.md) 
 
-### [Dybwatt.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityDybwatt.personal.md) 
+### [Dybwatt.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Dybwatt.private.md) 
 
-### [Dybwatt.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityDybwatt.secret.md)
+### [Dybwatt.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Dybwatt.personal.md) 
+
+### [Dybwatt.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Dybwatt.secret.md)
 

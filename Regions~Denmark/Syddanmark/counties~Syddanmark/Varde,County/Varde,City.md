@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Varde,City.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Varde,CountyVarde,City.public.md) 
+### [Varde,City](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Varde,County/Varde,City.md) 
 
-### [Varde,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Varde,CountyVarde,City.internal.md) 
+### [Varde,City.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Varde,County/Varde,City.public.md) 
 
-### [Varde,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Varde,CountyVarde,City.protect.md) 
+### [Varde,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Varde,County/Varde,City.internal.md) 
 
-### [Varde,City.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Varde,CountyVarde,City.private.md) 
+### [Varde,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Varde,County/Varde,City.protect.md) 
 
-### [Varde,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Varde,CountyVarde,City.personal.md) 
+### [Varde,City.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Varde,County/Varde,City.private.md) 
 
-### [Varde,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Varde,CountyVarde,City.secret.md)
+### [Varde,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Varde,County/Varde,City.personal.md) 
+
+### [Varde,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Varde,County/Varde,City.secret.md)
 

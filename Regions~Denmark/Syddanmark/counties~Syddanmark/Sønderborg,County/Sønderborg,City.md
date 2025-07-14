@@ -39,15 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sønderborg,City.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Sønderborg,CountySønderborg,City.public.md) 
+### [Sønderborg,City](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.md) 
 
-### [Sønderborg,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Sønderborg,CountySønderborg,City.internal.md) 
+### [Sønderborg,City.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.public.md) 
 
-### [Sønderborg,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Sønderborg,CountySønderborg,City.protect.md) 
+### [Sønderborg,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.internal.md) 
 
-### [Sønderborg,City.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Sønderborg,CountySønderborg,City.private.md) 
+### [Sønderborg,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.protect.md) 
 
-### [Sønderborg,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Sønderborg,CountySønderborg,City.personal.md) 
+### [Sønderborg,City.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.private.md) 
 
-### [Sønderborg,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\counties~Syddanmark\Sønderborg,CountySønderborg,City.secret.md)
+### [Sønderborg,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.personal.md) 
+
+### [Sønderborg,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.secret.md)
 

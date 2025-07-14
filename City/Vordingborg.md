@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vordingborg.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityVordingborg.public.md) 
+### [Vordingborg](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Vordingborg.md) 
 
-### [Vordingborg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityVordingborg.internal.md) 
+### [Vordingborg.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Vordingborg.public.md) 
 
-### [Vordingborg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityVordingborg.protect.md) 
+### [Vordingborg.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Vordingborg.internal.md) 
 
-### [Vordingborg.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityVordingborg.private.md) 
+### [Vordingborg.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Vordingborg.protect.md) 
 
-### [Vordingborg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityVordingborg.personal.md) 
+### [Vordingborg.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Vordingborg.private.md) 
 
-### [Vordingborg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityVordingborg.secret.md)
+### [Vordingborg.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Vordingborg.personal.md) 
+
+### [Vordingborg.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Vordingborg.secret.md)
 

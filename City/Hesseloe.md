@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hesseloe.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityHesseloe.public.md) 
+### [Hesseloe](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Hesseloe.md) 
 
-### [Hesseloe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityHesseloe.internal.md) 
+### [Hesseloe.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Hesseloe.public.md) 
 
-### [Hesseloe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityHesseloe.protect.md) 
+### [Hesseloe.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Hesseloe.internal.md) 
 
-### [Hesseloe.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityHesseloe.private.md) 
+### [Hesseloe.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Hesseloe.protect.md) 
 
-### [Hesseloe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityHesseloe.personal.md) 
+### [Hesseloe.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Hesseloe.private.md) 
 
-### [Hesseloe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityHesseloe.secret.md)
+### [Hesseloe.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Hesseloe.personal.md) 
+
+### [Hesseloe.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Hesseloe.secret.md)
 

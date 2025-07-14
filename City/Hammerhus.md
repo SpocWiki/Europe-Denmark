@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hammerhus.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityHammerhus.public.md) 
+### [Hammerhus](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.md) 
 
-### [Hammerhus.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityHammerhus.internal.md) 
+### [Hammerhus.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.public.md) 
 
-### [Hammerhus.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityHammerhus.protect.md) 
+### [Hammerhus.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.internal.md) 
 
-### [Hammerhus.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityHammerhus.private.md) 
+### [Hammerhus.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.protect.md) 
 
-### [Hammerhus.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityHammerhus.personal.md) 
+### [Hammerhus.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.private.md) 
 
-### [Hammerhus.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityHammerhus.secret.md)
+### [Hammerhus.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.personal.md) 
+
+### [Hammerhus.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.secret.md)
 

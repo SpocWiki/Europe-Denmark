@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nibe.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityNibe.public.md) 
+### [Nibe](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Nibe.md) 
 
-### [Nibe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityNibe.internal.md) 
+### [Nibe.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Nibe.public.md) 
 
-### [Nibe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityNibe.protect.md) 
+### [Nibe.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Nibe.internal.md) 
 
-### [Nibe.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityNibe.private.md) 
+### [Nibe.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Nibe.protect.md) 
 
-### [Nibe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityNibe.personal.md) 
+### [Nibe.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Nibe.private.md) 
 
-### [Nibe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityNibe.secret.md)
+### [Nibe.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Nibe.personal.md) 
+
+### [Nibe.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Nibe.secret.md)
 

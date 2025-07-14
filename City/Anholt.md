@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Anholt.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityAnholt.public.md) 
+### [Anholt](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.md) 
 
-### [Anholt.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityAnholt.internal.md) 
+### [Anholt.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.public.md) 
 
-### [Anholt.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityAnholt.protect.md) 
+### [Anholt.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.internal.md) 
 
-### [Anholt.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityAnholt.private.md) 
+### [Anholt.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.protect.md) 
 
-### [Anholt.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityAnholt.personal.md) 
+### [Anholt.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.private.md) 
 
-### [Anholt.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityAnholt.secret.md)
+### [Anholt.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.personal.md) 
+
+### [Anholt.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.secret.md)
 

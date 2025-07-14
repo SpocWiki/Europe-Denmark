@@ -33,19 +33,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Regions%20of%20Denmark)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Regions~Denmark.public](/_public/\Earth\Continent\Europe\Europe~North\DenmarkRegions~Denmark.public.md) 
+### [Regions~Denmark](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.md) 
 
-### [Regions~Denmark.internal](/_internal/\Earth\Continent\Europe\Europe~North\DenmarkRegions~Denmark.internal.md) 
+### [Regions~Denmark.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.public.md) 
 
-### [Regions~Denmark.protect](/_protect/\Earth\Continent\Europe\Europe~North\DenmarkRegions~Denmark.protect.md) 
+### [Regions~Denmark.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.internal.md) 
 
-### [Regions~Denmark.private](/_private/\Earth\Continent\Europe\Europe~North\DenmarkRegions~Denmark.private.md) 
+### [Regions~Denmark.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.protect.md) 
 
-### [Regions~Denmark.personal](/_personal/\Earth\Continent\Europe\Europe~North\DenmarkRegions~Denmark.personal.md) 
+### [Regions~Denmark.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.private.md) 
 
-### [Regions~Denmark.secret](/_secret/\Earth\Continent\Europe\Europe~North\DenmarkRegions~Denmark.secret.md)
+### [Regions~Denmark.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.personal.md) 
+
+### [Regions~Denmark.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.secret.md)
 

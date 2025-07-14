@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Morup.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMorup.public.md) 
+### [Morup](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Morup.md) 
 
-### [Morup.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMorup.internal.md) 
+### [Morup.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Morup.public.md) 
 
-### [Morup.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMorup.protect.md) 
+### [Morup.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Morup.internal.md) 
 
-### [Morup.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMorup.private.md) 
+### [Morup.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Morup.protect.md) 
 
-### [Morup.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMorup.personal.md) 
+### [Morup.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Morup.private.md) 
 
-### [Morup.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMorup.secret.md)
+### [Morup.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Morup.personal.md) 
+
+### [Morup.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Morup.secret.md)
 

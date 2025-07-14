@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fladstrand.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityFladstrand.public.md) 
+### [Fladstrand](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.md) 
 
-### [Fladstrand.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityFladstrand.internal.md) 
+### [Fladstrand.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.public.md) 
 
-### [Fladstrand.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityFladstrand.protect.md) 
+### [Fladstrand.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.internal.md) 
 
-### [Fladstrand.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityFladstrand.private.md) 
+### [Fladstrand.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.protect.md) 
 
-### [Fladstrand.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityFladstrand.personal.md) 
+### [Fladstrand.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.private.md) 
 
-### [Fladstrand.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityFladstrand.secret.md)
+### [Fladstrand.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.personal.md) 
+
+### [Fladstrand.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.secret.md)
 

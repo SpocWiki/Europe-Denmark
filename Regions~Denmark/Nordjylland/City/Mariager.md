@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mariager.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMariager.public.md) 
+### [Mariager](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Mariager.md) 
 
-### [Mariager.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMariager.internal.md) 
+### [Mariager.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Mariager.public.md) 
 
-### [Mariager.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMariager.protect.md) 
+### [Mariager.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Mariager.internal.md) 
 
-### [Mariager.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMariager.private.md) 
+### [Mariager.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Mariager.protect.md) 
 
-### [Mariager.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMariager.personal.md) 
+### [Mariager.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Mariager.private.md) 
 
-### [Mariager.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Nordjylland\CityMariager.secret.md)
+### [Mariager.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Mariager.personal.md) 
+
+### [Mariager.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland/City/Mariager.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Nordjylland/
 
 ## Confidential Links & Embeds: 
 
-### [Nordjylland.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkNordjylland.public.md) 
+### [Nordjylland](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland.md) 
 
-### [Nordjylland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkNordjylland.internal.md) 
+### [Nordjylland.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland.public.md) 
 
-### [Nordjylland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkNordjylland.protect.md) 
+### [Nordjylland.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland.internal.md) 
 
-### [Nordjylland.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkNordjylland.private.md) 
+### [Nordjylland.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland.protect.md) 
 
-### [Nordjylland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkNordjylland.personal.md) 
+### [Nordjylland.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland.private.md) 
 
-### [Nordjylland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkNordjylland.secret.md)
+### [Nordjylland.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland.personal.md) 
+
+### [Nordjylland.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Nordjylland.secret.md)
 

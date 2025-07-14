@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Loegumkloster.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityLoegumkloster.public.md) 
+### [Loegumkloster](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Loegumkloster.md) 
 
-### [Loegumkloster.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityLoegumkloster.internal.md) 
+### [Loegumkloster.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Loegumkloster.public.md) 
 
-### [Loegumkloster.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityLoegumkloster.protect.md) 
+### [Loegumkloster.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Loegumkloster.internal.md) 
 
-### [Loegumkloster.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityLoegumkloster.private.md) 
+### [Loegumkloster.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Loegumkloster.protect.md) 
 
-### [Loegumkloster.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityLoegumkloster.personal.md) 
+### [Loegumkloster.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Loegumkloster.private.md) 
 
-### [Loegumkloster.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~Denmark\Syddanmark\CityLoegumkloster.secret.md)
+### [Loegumkloster.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Loegumkloster.personal.md) 
+
+### [Loegumkloster.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Loegumkloster.secret.md)
 

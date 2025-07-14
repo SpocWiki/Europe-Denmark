@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nyborg.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityNyborg.public.md) 
+### [Nyborg](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Nyborg.md) 
 
-### [Nyborg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityNyborg.internal.md) 
+### [Nyborg.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Nyborg.public.md) 
 
-### [Nyborg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityNyborg.protect.md) 
+### [Nyborg.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Nyborg.internal.md) 
 
-### [Nyborg.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityNyborg.private.md) 
+### [Nyborg.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Nyborg.protect.md) 
 
-### [Nyborg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityNyborg.personal.md) 
+### [Nyborg.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Nyborg.private.md) 
 
-### [Nyborg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityNyborg.secret.md)
+### [Nyborg.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Nyborg.personal.md) 
+
+### [Nyborg.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Nyborg.secret.md)
 

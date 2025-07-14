@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ballum.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityBallum.public.md) 
+### [Ballum](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.md) 
 
-### [Ballum.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityBallum.internal.md) 
+### [Ballum.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.public.md) 
 
-### [Ballum.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityBallum.protect.md) 
+### [Ballum.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.internal.md) 
 
-### [Ballum.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityBallum.private.md) 
+### [Ballum.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.protect.md) 
 
-### [Ballum.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityBallum.personal.md) 
+### [Ballum.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.private.md) 
 
-### [Ballum.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityBallum.secret.md)
+### [Ballum.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.personal.md) 
+
+### [Ballum.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.secret.md)
 

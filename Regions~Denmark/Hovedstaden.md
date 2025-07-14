@@ -57,15 +57,17 @@ markerFolder: ./Hovedstaden/
 
 ## Confidential Links & Embeds: 
 
-### [Hovedstaden.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkHovedstaden.public.md) 
+### [Hovedstaden](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden.md) 
 
-### [Hovedstaden.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkHovedstaden.internal.md) 
+### [Hovedstaden.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden.public.md) 
 
-### [Hovedstaden.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkHovedstaden.protect.md) 
+### [Hovedstaden.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden.internal.md) 
 
-### [Hovedstaden.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkHovedstaden.private.md) 
+### [Hovedstaden.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden.protect.md) 
 
-### [Hovedstaden.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkHovedstaden.personal.md) 
+### [Hovedstaden.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden.private.md) 
 
-### [Hovedstaden.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\Regions~DenmarkHovedstaden.secret.md)
+### [Hovedstaden.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden.personal.md) 
+
+### [Hovedstaden.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden.secret.md)
 

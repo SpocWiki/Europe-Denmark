@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Korsoev.public](/_public/\Earth\Continent\Europe\Europe~North\Denmark\CityKorsoev.public.md) 
+### [Korsoev](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Korsoev.md) 
 
-### [Korsoev.internal](/_internal/\Earth\Continent\Europe\Europe~North\Denmark\CityKorsoev.internal.md) 
+### [Korsoev.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Korsoev.public.md) 
 
-### [Korsoev.protect](/_protect/\Earth\Continent\Europe\Europe~North\Denmark\CityKorsoev.protect.md) 
+### [Korsoev.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Korsoev.internal.md) 
 
-### [Korsoev.private](/_private/\Earth\Continent\Europe\Europe~North\Denmark\CityKorsoev.private.md) 
+### [Korsoev.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Korsoev.protect.md) 
 
-### [Korsoev.personal](/_personal/\Earth\Continent\Europe\Europe~North\Denmark\CityKorsoev.personal.md) 
+### [Korsoev.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Korsoev.private.md) 
 
-### [Korsoev.secret](/_secret/\Earth\Continent\Europe\Europe~North\Denmark\CityKorsoev.secret.md)
+### [Korsoev.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Korsoev.personal.md) 
+
+### [Korsoev.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Korsoev.secret.md)
 
