@@ -1,32 +1,31 @@
 ---
-location: [ 55.3 , 11.8 ] 
+location:
+  - 55.3
+  - 11.8
 type: geo-Region
 title: Sjaælland
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Sjaælland
-- Region Zealand
-- Zealand
-
+  - Sjaælland
+  - Region Zealand
+  - Zealand
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Sjaælland

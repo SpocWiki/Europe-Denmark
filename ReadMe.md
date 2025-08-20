@@ -1,39 +1,40 @@
 ---
 location:
-- 55.6789
-- 10.5
+  - 55.6789
+  - 10.5
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26880
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Denmark
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Denmark
-- Dinamarca
-- Danemark
-- الدانمرك
-- 丹麦
-- Дания
-- the Kingdom of Denmark
-- el Reino de Dinamarca
+  - Denmark
+  - Dinamarca
+  - Danemark
+  - الدانمرك
+  - 丹麦
+  - Дания
+  - the Kingdom of Denmark
+  - el Reino de Dinamarca
 Languages:
-- da-DK
-- en
-- fo
-- de-DK
+  - da-DK
+  - en
+  - fo
+  - de-DK
 ---
 
 
