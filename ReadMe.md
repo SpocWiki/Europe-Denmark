@@ -121,7 +121,7 @@ markerFolder: .//
 [Area-Land::42430] 
 Continent :: [[Europe]]  
 [VehicleCode::DK] 
-Capital :: [[Copenhagen]]  
+Capital :: [[Regions~Denmark/Zealand/Hovedstaden/City/Copenhagen]]  
 ![[Coat_of_arms_of_Denmark.svg|350]] 
 ![[Anthem-Denmark.mp3]]  
 ![[Flag_of_Denmark.svg|350]] 

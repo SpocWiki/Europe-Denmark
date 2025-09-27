@@ -149,7 +149,7 @@ Country :: [[Denmark]]
 [Population::] 
 [Unknown::] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Copenhagen,1748|WD~Copenhagen,1748]] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Copenhagen,1748|WD~Copenhagen,1748]] 
 
 ## #has_/map  
 
