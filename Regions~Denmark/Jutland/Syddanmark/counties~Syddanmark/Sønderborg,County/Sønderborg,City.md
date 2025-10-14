@@ -25,7 +25,7 @@ State ::
 Country :: [[Denmark]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

@@ -147,7 +147,7 @@ State ::
 Country :: [[Denmark]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Copenhagen,1748|WD~Copenhagen,1748]] 
 
