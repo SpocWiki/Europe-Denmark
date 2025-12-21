@@ -1,16 +1,19 @@
 ---
-location: [55.62,8.48] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Varde,City
+location:
+  - 55.62
+  - 8.48
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35207
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

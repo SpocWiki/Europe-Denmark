@@ -1,19 +1,20 @@
 ---
 aliases:
   - Seeland
+  - Zealand
 has_id_wikidata: Q25535
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Baltic_Sea,545]]"
-different_from: "[[_Standards/WikiData/WD~Zeeland,705]]"
-instance_of: "[[_Standards/WikiData/WD~island,23442]]"
-named_after: "[[_Standards/WikiData/WD~Phocidae,25587]]"
-part_of: "[[_Standards/WikiData/WD~Denmark,35]]"
-country: "[[_Standards/WikiData/WD~Denmark,35]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Baltic_Sea,545]]'
+different_from: '[[_Standards/WikiData/WD~Zeeland,705]]'
+instance_of: '[[_Standards/WikiData/WD~island,23442]]'
+named_after: '[[_Standards/WikiData/WD~Phocidae,25587]]'
+part_of: '[[_Standards/WikiData/WD~Denmark,35]]'
+country: '[[_Standards/WikiData/WD~Denmark,35]]'
 width: 116
 length: 132
 area: 7031.3

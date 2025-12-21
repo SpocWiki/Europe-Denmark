@@ -1,16 +1,19 @@
 ---
-location: [57.43,10.55] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Frederikshavn
+location:
+  - 57.43
+  - 10.55
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30246
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

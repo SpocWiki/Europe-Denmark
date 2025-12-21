@@ -1,16 +1,19 @@
 ---
-location: [55.33,11.13] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Korsoev
+location:
+  - 55.33
+  - 11.13
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31584
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

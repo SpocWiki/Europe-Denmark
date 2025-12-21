@@ -1,49 +1,50 @@
 ---
 aliases:
   - Kattegatt
+  - Kattegat
 has_id_wikidata: Q131716
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Västra_Götaland_County,103093]]"
-  - "[[_Standards/WikiData/WD~Skåne_County,103659]]"
-  - "[[_Standards/WikiData/WD~Halland_County,103691]]"
-  - "[[_Standards/WikiData/WD~Southern_Denmark,26061]]"
-  - "[[_Standards/WikiData/WD~North_Jutland_Region,26067]]"
-  - "[[_Standards/WikiData/WD~Capital_Region_of_Denmark,26073]]"
-  - "[[_Standards/WikiData/WD~Central_Denmark,26586]]"
-  - "[[_Standards/WikiData/WD~Region_Zealand,26589]]"
+  - '[[_Standards/WikiData/WD~Västra_Götaland_County,103093]]'
+  - '[[_Standards/WikiData/WD~Skåne_County,103659]]'
+  - '[[_Standards/WikiData/WD~Halland_County,103691]]'
+  - '[[_Standards/WikiData/WD~Southern_Denmark,26061]]'
+  - '[[_Standards/WikiData/WD~North_Jutland_Region,26067]]'
+  - '[[_Standards/WikiData/WD~Capital_Region_of_Denmark,26073]]'
+  - '[[_Standards/WikiData/WD~Central_Denmark,26586]]'
+  - '[[_Standards/WikiData/WD~Region_Zealand,26589]]'
 inflows:
-  - "[[_Standards/WikiData/WD~Göta_älv,214748]]"
-  - "[[_Standards/WikiData/WD~Ätran,258116]]"
-  - "[[_Standards/WikiData/WD~Lagan,426988]]"
-  - "[[_Standards/WikiData/WD~Gudenå,739513]]"
-  - "[[_Standards/WikiData/WD~Nissan,958359]]"
-  - "[[_Standards/WikiData/WD~Viskan,1537948]]"
-  - "[[_Standards/WikiData/WD~Fylleån,5511236]]"
+  - '[[_Standards/WikiData/WD~Göta_älv,214748]]'
+  - '[[_Standards/WikiData/WD~Ätran,258116]]'
+  - '[[_Standards/WikiData/WD~Lagan,426988]]'
+  - '[[_Standards/WikiData/WD~Gudenå,739513]]'
+  - '[[_Standards/WikiData/WD~Nissan,958359]]'
+  - '[[_Standards/WikiData/WD~Viskan,1537948]]'
+  - '[[_Standards/WikiData/WD~Fylleån,5511236]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Q35541239,35541239]]"
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~Q35541239,35541239]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~gulf,1322134]]"
-  - "[[_Standards/WikiData/WD~strait,37901]]"
+  - '[[_Standards/WikiData/WD~gulf,1322134]]'
+  - '[[_Standards/WikiData/WD~strait,37901]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Mariager_Fjord,1896613]]"
-  - "[[_Standards/WikiData/WD~Randers_Fjord,3558161]]"
-  - "[[_Standards/WikiData/WD~Kungsbacka_Fjord,6444540]]"
-  - "[[_Standards/WikiData/WD~Gullmarn,32245015]]"
-connects_with: "[[_Standards/WikiData/WD~Belt_Sea,12304781]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Kattegat,135942802]]"
+  - '[[_Standards/WikiData/WD~Mariager_Fjord,1896613]]'
+  - '[[_Standards/WikiData/WD~Randers_Fjord,3558161]]'
+  - '[[_Standards/WikiData/WD~Kungsbacka_Fjord,6444540]]'
+  - '[[_Standards/WikiData/WD~Gullmarn,32245015]]'
+connects_with: '[[_Standards/WikiData/WD~Belt_Sea,12304781]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Kattegat,135942802]]'
 coordinate_location: Point(11.428055555 56.928333333)
-shares_border_with: "[[_Standards/WikiData/WD~Skagerrak,1695]]"
+shares_border_with: '[[_Standards/WikiData/WD~Skagerrak,1695]]'
 country:
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-part_of: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+  - '[[_Standards/WikiData/WD~Sweden,34]]'
+  - '[[_Standards/WikiData/WD~Denmark,35]]'
+part_of: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
 salinity: 30
 length: 220
 width: 88

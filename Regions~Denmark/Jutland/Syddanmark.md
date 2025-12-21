@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Syddanmark
+  - Region of Southern Denmark
+  - Southern Denmark
 location:
   - 55.4
   - 9.1
@@ -12,20 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Syddanmark
-  - Region of Southern Denmark
-  - Southern Denmark
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Syddanmark

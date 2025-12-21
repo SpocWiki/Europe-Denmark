@@ -1,16 +1,19 @@
 ---
-location: [56.98,9.67] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Nibe
+location:
+  - 56.98
+  - 9.67
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32892
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

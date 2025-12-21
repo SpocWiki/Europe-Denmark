@@ -1,16 +1,19 @@
 ---
-location: [54.82,11.5] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Maribo
+location:
+  - 54.82
+  - 11.5
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32286
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

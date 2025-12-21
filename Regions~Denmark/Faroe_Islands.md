@@ -7,6 +7,7 @@ aliases:
   - جزر فايرو
   - 法罗群岛
   - Фарерские острова
+has_id_wikidata: Q4628
 Commons_category: Faroe Islands
 Commons_gallery: Føroyar
 Dewey_Decimal_Classification: 2--4915
@@ -59,7 +60,7 @@ different_from: "[[_Standards/WikiData/WD~Fair_Isle,3064518]]"
 driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
 diplomatic_relation: "[[_Standards/WikiData/WD~European_Union,458]]"
 demonym: føroyingur
-expiryDate:
+expiryDate: ""
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Faroe_Islands,1000849]]"
 electrical_plug_type:
   - "[[_Standards/WikiData/WD~Schuko,1123613]]"
@@ -70,7 +71,6 @@ flag: "[[_Standards/WikiData/WD~flag_of_the_Faroe_Islands,4575]]"
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Faroe%20Islands.svg
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Faroe_Islands,671799]]"
 geoshape: http://commons.wikimedia.org/data/main/Data:Faroe+Islands.map
-has_id_wikidata: Q4628
 history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Faroe_Islands,254346]]"
 head_of_government: "[[_Standards/WikiData/WD~Aksel_V._Johannesen,556712]]"
 highest_point: "[[_Standards/WikiData/WD~Slættaratindur,738746]]"
@@ -83,13 +83,13 @@ instance_of:
   - "[[_Standards/WikiData/WD~autonomous_country_within_the_Kingdom_of_Denmark,66724388]]"
 inception: 1948-04-01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Faroe%20Islands%20by%20Sentinel-2.jpg
-keywords:
+keywords: ""
 location:
   - 62
   - -6.78333
 license: CC BY-SA 4.0
-linkTitle:
-layout:
+linkTitle: ""
+layout: ""
 legislative_body: "[[_Standards/WikiData/WD~Løgting,509668]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]"
 located_in_time_zone: "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
@@ -121,7 +121,7 @@ official_name:
   - Færøerne
   - Føroyar
 publish: true
-publishDate:
+publishDate: ""
 part_of:
   - "[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]"
   - "[[_Standards/WikiData/WD~the_unity_of_the_Realm,1191549]]"

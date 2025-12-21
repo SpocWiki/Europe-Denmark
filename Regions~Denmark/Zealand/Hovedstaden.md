@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Hovedstaden
+  - Capital Region of Denmark
 location:
   - 55.9
   - 12.3
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Hovedstaden
-  - Capital Region of Denmark
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Hovedstaden

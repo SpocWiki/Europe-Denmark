@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Denmark
+  - Dinamarca
+  - Danemark
+  - الدانمرك
+  - 丹麦
+  - Дания
+  - the Kingdom of Denmark
+  - el Reino de Dinamarca
+  - ReadMe
 location:
   - 55.6789
   - 10.5
@@ -15,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Denmark
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Denmark
-  - Dinamarca
-  - Danemark
-  - الدانمرك
-  - 丹麦
-  - Дания
-  - the Kingdom of Denmark
-  - el Reino de Dinamarca
+publishDate: ''
+expiryDate: ''
 Languages:
   - da-DK
   - en

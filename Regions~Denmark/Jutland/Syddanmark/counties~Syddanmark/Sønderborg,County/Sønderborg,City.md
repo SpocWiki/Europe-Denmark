@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Sønderborg
+  - Sonderburg
+  - Sønderborg,City
 location:
   - 54.92
   - 9.8
@@ -12,9 +16,6 @@ tags:
 SpocWebEntityId: 34366
 isDeleted: false
 confidential: public
-aliases:
-  - Sønderborg
-  - Sonderburg
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

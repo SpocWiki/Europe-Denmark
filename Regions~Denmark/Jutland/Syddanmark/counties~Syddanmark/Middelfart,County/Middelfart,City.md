@@ -1,16 +1,19 @@
 ---
-location: [55.5,9.73] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Middelfart,City
+location:
+  - 55.5
+  - 9.73
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32466
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

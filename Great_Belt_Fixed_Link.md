@@ -4,38 +4,40 @@ aliases:
   - Storebæltsbroen
   - Great Belt fixed link
   - Storebæltsforbindelsen
+  - Great_Belt_Fixed_Link
+  - Great Belt Fixed Link
 has_id_wikidata: Q213962
-crosses: "[[_Standards/WikiData/WD~Great_Belt,204715]]"
-significant_event: "[[_Standards/WikiData/WD~construction,385378]]"
+crosses: '[[_Standards/WikiData/WD~Great_Belt,204715]]'
+significant_event: '[[_Standards/WikiData/WD~construction,385378]]'
 terminus:
-  - "[[_Standards/WikiData/WD~Korsør_Station,801030]]"
-  - "[[_Standards/WikiData/WD~Nyborg_Station,2460064]]"
-  - "[[_Standards/WikiData/WD~Zealand,25535]]"
-  - "[[_Standards/WikiData/WD~Funen,26503]]"
+  - '[[_Standards/WikiData/WD~Korsør_Station,801030]]'
+  - '[[_Standards/WikiData/WD~Nyborg_Station,2460064]]'
+  - '[[_Standards/WikiData/WD~Zealand,25535]]'
+  - '[[_Standards/WikiData/WD~Funen,26503]]'
 connects_with:
-  - "[[_Standards/WikiData/WD~Copenhagen_Korsør_Line,802556]]"
-  - "[[_Standards/WikiData/WD~Nyborg_Fredericia_line,2123648]]"
-  - "[[_Standards/WikiData/WD~Fynske_Motorvej,2297157]]"
-  - "[[_Standards/WikiData/WD~Vestmotorvejen,2670209]]"
+  - '[[_Standards/WikiData/WD~Copenhagen_Korsør_Line,802556]]'
+  - '[[_Standards/WikiData/WD~Nyborg_Fredericia_line,2123648]]'
+  - '[[_Standards/WikiData/WD~Fynske_Motorvej,2297157]]'
+  - '[[_Standards/WikiData/WD~Vestmotorvejen,2670209]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~East_tunnel_of_the_Great_Belt_Fixed_Link,1548586]]"
-  - "[[_Standards/WikiData/WD~Storebæltsbroen,12718681]]"
+  - '[[_Standards/WikiData/WD~East_tunnel_of_the_Great_Belt_Fixed_Link,1548586]]'
+  - '[[_Standards/WikiData/WD~Storebæltsbroen,12718681]]'
 carries:
-  - "[[_Standards/WikiData/WD~European_route_E20_in_Denmark,1788817]]"
-  - "[[_Standards/WikiData/WD~Copenhagen_Fredericia_Taulov_line,60332540]]"
-part_of: "[[_Standards/WikiData/WD~European_route_E20_in_Denmark,1788817]]"
+  - '[[_Standards/WikiData/WD~European_route_E20_in_Denmark,1788817]]'
+  - '[[_Standards/WikiData/WD~Copenhagen_Fredericia_Taulov_line,60332540]]'
+part_of: '[[_Standards/WikiData/WD~European_route_E20_in_Denmark,1788817]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~bridge_tunnel,5456378]]"
-  - "[[_Standards/WikiData/WD~road_rail_bridge,6636777]]"
+  - '[[_Standards/WikiData/WD~bridge_tunnel,5456378]]'
+  - '[[_Standards/WikiData/WD~road_rail_bridge,6636777]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Q12315084,12315084]]"
-  - "[[_Standards/WikiData/WD~Q135210281,135210281]]"
-owned_by: "[[_Standards/WikiData/WD~A_S_Storebælt,17165521]]"
-foundational_text: "[[_Standards/WikiData/WD~Danish_Act_on_the_Great_Belt_Fixed_Link,113655667]]"
+  - '[[_Standards/WikiData/WD~Q12315084,12315084]]'
+  - '[[_Standards/WikiData/WD~Q135210281,135210281]]'
+owned_by: '[[_Standards/WikiData/WD~A_S_Storebælt,17165521]]'
+foundational_text: '[[_Standards/WikiData/WD~Danish_Act_on_the_Great_Belt_Fixed_Link,113655667]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Slagelse_Municipality,29927]]"
-  - "[[_Standards/WikiData/WD~Nyborg_Municipality,30013]]"
-country: "[[_Standards/WikiData/WD~Denmark,35]]"
+  - '[[_Standards/WikiData/WD~Slagelse_Municipality,29927]]'
+  - '[[_Standards/WikiData/WD~Nyborg_Municipality,30013]]'
+country: '[[_Standards/WikiData/WD~Denmark,35]]'
 length: 18
 annual_average_daily_traffic: 37376
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Storeb%C3%A6ltsbroen%20from%20Sj%C3%A6lland.jpg

@@ -2,6 +2,8 @@
 aliases:
   - Kopenhagen
   - København
+  - Copenhagen
+has_id_wikidata: Q1748
 location:
   - 55.7
   - 12.59
@@ -15,66 +17,65 @@ tags:
 SpocWebEntityId: 31566
 isDeleted: false
 confidential: public
-has_id_wikidata: Q1748
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Øresund,104662]]"
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Øresund,104662]]'
 located_in_on_physical_feature:
-  - "[[_Standards/WikiData/WD~Amager,210396]]"
-  - "[[_Standards/WikiData/WD~Zealand,25535]]"
+  - '[[_Standards/WikiData/WD~Amager,210396]]'
+  - '[[_Standards/WikiData/WD~Zealand,25535]]'
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Grójec,391461]]"
-  - "[[_Standards/WikiData/WD~Stockholm,506250]]"
-  - "[[_Standards/WikiData/WD~Oslo,585]]"
-  - "[[_Standards/WikiData/WD~Beijing,956]]"
-  - "[[_Standards/WikiData/WD~Prague,1085]]"
-  - "[[_Standards/WikiData/WD~Helsinki,1757]]"
-  - "[[_Standards/WikiData/WD~Reykjavík,1764]]"
-  - "[[_Standards/WikiData/WD~Kyiv,1899]]"
-  - "[[_Standards/WikiData/WD~Curitiba,4361]]"
-  - "[[_Standards/WikiData/WD~Amsterdam,9899]]"
-  - "[[_Standards/WikiData/WD~Tórshavn,10704]]"
-  - "[[_Standards/WikiData/WD~Marseille,23482]]"
-  - "[[_Standards/WikiData/WD~Berlin,64]]"
-  - "[[_Standards/WikiData/WD~Nuuk,226]]"
+  - '[[_Standards/WikiData/WD~Grójec,391461]]'
+  - '[[_Standards/WikiData/WD~Stockholm,506250]]'
+  - '[[_Standards/WikiData/WD~Oslo,585]]'
+  - '[[_Standards/WikiData/WD~Beijing,956]]'
+  - '[[_Standards/WikiData/WD~Prague,1085]]'
+  - '[[_Standards/WikiData/WD~Helsinki,1757]]'
+  - '[[_Standards/WikiData/WD~Reykjavík,1764]]'
+  - '[[_Standards/WikiData/WD~Kyiv,1899]]'
+  - '[[_Standards/WikiData/WD~Curitiba,4361]]'
+  - '[[_Standards/WikiData/WD~Amsterdam,9899]]'
+  - '[[_Standards/WikiData/WD~Tórshavn,10704]]'
+  - '[[_Standards/WikiData/WD~Marseille,23482]]'
+  - '[[_Standards/WikiData/WD~Berlin,64]]'
+  - '[[_Standards/WikiData/WD~Nuuk,226]]'
 member_of:
-  - "[[_Standards/WikiData/WD~C40_Cities_Climate_Leadership_Group,485087]]"
-  - "[[_Standards/WikiData/WD~International_Cities_of_Refuge_Network,15477956]]"
-  - "[[_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870]]"
+  - '[[_Standards/WikiData/WD~C40_Cities_Climate_Leadership_Group,485087]]'
+  - '[[_Standards/WikiData/WD~International_Cities_of_Refuge_Network,15477956]]'
+  - '[[_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Trap_Danmark_(3rd_ed.),80437693]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Trap_Danmark_(3rd_ed.),80437693]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~cycling_city,1392581]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~largest_city,51929311]]"
-  - "[[_Standards/WikiData/WD~national_capital,108178728]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Copenhagen,1569000]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Copenhagen_history,7805697]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Copenhagen,16323983]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Copenhagen,56678216]]"
-head_of_government: "[[_Standards/WikiData/WD~Lars_Weiss,100596915]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q117745899,117745899]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]"
+  - '[[_Standards/WikiData/WD~cycling_city,1392581]]'
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~largest_city,51929311]]'
+  - '[[_Standards/WikiData/WD~national_capital,108178728]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Copenhagen,1569000]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Copenhagen_history,7805697]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Copenhagen,16323983]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Copenhagen,56678216]]'
+head_of_government: '[[_Standards/WikiData/WD~Lars_Weiss,100596915]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117745899,117745899]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]'
 coordinate_location: Point(12.568888888 55.676111111)
 inception: 1167-01-01T00:00:00Z
-present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385]]"
-official_language: "[[_Standards/WikiData/WD~Danish,9035]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~Central_European_Time,25989]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Capital_Region_of_Denmark,26073]]"
-capital_of: "[[_Standards/WikiData/WD~Denmark,35]]"
-country: "[[_Standards/WikiData/WD~Denmark,35]]"
+present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385]]'
+official_language: '[[_Standards/WikiData/WD~Danish,9035]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~Central_European_Time,25989]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Capital_Region_of_Denmark,26073]]'
+capital_of: '[[_Standards/WikiData/WD~Denmark,35]]'
+country: '[[_Standards/WikiData/WD~Denmark,35]]'
 elevation_above_sea_level: 14
-local_dialing_code: "3"
+local_dialing_code: 3
 area: 90.9
-postal_code: "1000"
-OmegaWiki_Defined_Meaning: "6616"
+postal_code: 1000
+OmegaWiki_Defined_Meaning: 6616
 hashtag_:
   - Copenhagen
   - Kopenhagen
@@ -103,8 +104,8 @@ nickname:
   - Wonderful Copenhagen
   - Kongens København
   - Tårnenes by
-WOEID: "554890"
-Danish_urban_area_code: "01100"
+WOEID: 554890
+Danish_urban_area_code: 01100
 native_label: København
 official_name: København
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Copenhagen%20-%20view%20from%20Christiansborg%20castle.jpg
@@ -131,7 +132,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Timelapse-%20
 seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B8benhavn%20segl%201296.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Urban%20Copenhagen.PNG
 official_website: https://www.kk.dk/
-U_S_National_Archives_Identifier: "10044961"
+U_S_National_Archives_Identifier: 10044961
 Dewey_Decimal_Classification: 2--48913
 IMDb_keyword: copenhagen-denmark
 ---
