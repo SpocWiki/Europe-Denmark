@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1997-06-01 
 aliases:
   - Great Belt Bridge
   - Storebæltsbroen

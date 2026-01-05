@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1479-06-10 
 aliases:
   - University of Copenhagen
   - Københavns Universitet
