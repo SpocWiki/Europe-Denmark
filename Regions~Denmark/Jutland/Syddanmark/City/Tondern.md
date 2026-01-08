@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.88
 dv_has_place_latitude: 54.93
-dv_name: Tondern
+dv_has_name_: Tondern
 dv_Country: "[[../../../../../Denmark]]"
 ---
 #is_a_/Place  

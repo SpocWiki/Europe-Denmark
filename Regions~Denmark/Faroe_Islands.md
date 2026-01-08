@@ -149,15 +149,15 @@ dv_ISO4217-currency_country_name: FAROE ISLANDS
 dv_Telephone: 298
 dv_Global: true
 dv_Global_Name: World
-dv_name: Faroe Islands
-dv_name-en:
+dv_has_name_: Faroe Islands
+dv_has_name_en:
   - Faroe Islands
   - Faeroe Islands
-dv_name-es: Islas Feroe
-dv_name-fr: Îles Féroé
-dv_name-cn: 法罗群岛
-dv_name-ar: جزر فايرو
-dv_name-ru: Фарерские острова
+dv_has_name_es: Islas Feroe
+dv_has_name_fr: Îles Féroé
+dv_has_name_cn: 法罗群岛
+dv_has_name_ar: جزر فايرو
+dv_has_name_ru: Фарерские острова
 dv_CLDR_display_name: Faroe Islands
 dv_Region_Name: "[[../../../../Europe]]"
 dv_Intermediate_Region_Name: "[[Faroe_Islands]]"
@@ -192,7 +192,7 @@ dv_is_:
     - "[Faroe~Islands.private](/_private/Earth/Continent/Europe/Europe~North/Faroe~Islands.private.md)"
     - "[Faroe~Islands.personal](/_personal/Earth/Continent/Europe/Europe~North/Faroe~Islands.personal.md)"
     - "[Faroe~Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/Faroe~Islands.secret.md)"
-dv_name-de: Färöer Inseln
+dv_has_name_de: Färöer Inseln
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../../../Europe]]"
@@ -225,12 +225,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Faroe Islands ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Faroe Islands ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -292,8 +292,8 @@ geojsonFolder: ./Faroe~Islands//
 markerFolder: ./Faroe~Islands//
 ```
 
-[name-en::Faeroe Islands]
-name-de = `=this.dv_name-de`
+[has_name_en::Faeroe Islands]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

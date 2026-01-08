@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.08
 dv_has_place_latitude: 56.65
-dv_name: Skive
+dv_has_name_: Skive
 dv_Country: "[[../../../../../Denmark]]"
 ---
 #is_a_/Place  

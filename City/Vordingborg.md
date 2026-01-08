@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.92
 dv_has_place_latitude: 55
-dv_name: Vordingborg
+dv_has_name_: Vordingborg
 dv_Country: "[[../../Denmark]]"
 ---
 #is_a_/Place  

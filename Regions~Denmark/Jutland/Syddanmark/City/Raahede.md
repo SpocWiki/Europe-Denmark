@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.72
 dv_has_place_latitude: 55.28
-dv_name: Raahede
+dv_has_name_: Raahede
 dv_Country: "[[../../../../../Denmark]]"
 ---
 #is_a_/Place  

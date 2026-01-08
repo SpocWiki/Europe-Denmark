@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.43
 dv_has_place_latitude: 56.45
-dv_name: Viborg
+dv_has_name_: Viborg
 dv_Country: "[[../../../../../Denmark]]"
 ---
 #is_a_/Place  

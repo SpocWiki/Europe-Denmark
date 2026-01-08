@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.62
 dv_has_place_latitude: 55.07
-dv_name: Svendborg
+dv_has_name_: Svendborg
 dv_Country: "[[../../../../../../Denmark]]"
 ---
 #is_a_/Place  

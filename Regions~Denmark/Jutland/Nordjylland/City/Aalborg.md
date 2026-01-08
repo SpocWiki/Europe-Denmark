@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.93
 dv_has_place_latitude: 57.05
-dv_name: Aalborg
+dv_has_name_: Aalborg
 dv_Country: "[[../../../../../Denmark]]"
 ---
 #is_a_/Place  

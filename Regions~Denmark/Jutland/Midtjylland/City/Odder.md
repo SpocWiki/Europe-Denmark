@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.15
 dv_has_place_latitude: 55.97
-dv_name: Odder
+dv_has_name_: Odder
 dv_Country: "[[../../../../../Denmark]]"
 ---
 #is_a_/Place  

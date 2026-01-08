@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.13
 dv_has_place_latitude: 54.83
-dv_name: Nakskov
+dv_has_name_: Nakskov
 dv_Country: "[[../../../../../Denmark]]"
 ---
 #is_a_/Place  

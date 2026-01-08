@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.38
 dv_has_place_latitude: 55.38
-dv_name: Odense
+dv_has_name_: Odense
 dv_Country: "[[../../../../../../Denmark]]"
 ---
 

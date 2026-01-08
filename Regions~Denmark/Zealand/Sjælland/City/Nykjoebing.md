@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.7
 dv_has_place_latitude: 55.93
-dv_name: Nykjoebing
+dv_has_name_: Nykjoebing
 dv_Country: "[[../../../../../Denmark]]"
 ---
 #is_a_/Place  

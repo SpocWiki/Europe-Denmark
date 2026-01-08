@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.55
 dv_has_place_latitude: 55.7
-dv_name: Vejle
+dv_has_name_: Vejle
 dv_Country: "[[../../../../../../Denmark]]"
 ---
 #is_a_/Place  

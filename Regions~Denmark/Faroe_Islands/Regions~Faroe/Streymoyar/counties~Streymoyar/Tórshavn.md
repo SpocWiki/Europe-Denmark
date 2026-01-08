@@ -16,7 +16,7 @@ tags:
 type: City
 dv_has_place_longitude: -6.783333
 dv_has_place_latitude: 62
-dv_name: Tórshavn
+dv_has_name_: Tórshavn
 dv_has_place_country: "[[../../../Faroe~Islands]]"
 dv_Unknown: 32
 dv_is_:

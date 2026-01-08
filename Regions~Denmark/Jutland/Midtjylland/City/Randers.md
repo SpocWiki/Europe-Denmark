@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.05
 dv_has_place_latitude: 56.47
-dv_name: Randers
+dv_has_name_: Randers
 dv_Country: "[[../../../../../Denmark]]"
 ---
 #is_a_/Place  

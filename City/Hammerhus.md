@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.63
 dv_has_place_latitude: 55.28
-dv_name: Hammerhus
+dv_has_name_: Hammerhus
 dv_Country: "[[../../Denmark]]"
 ---
 #is_a_/Place  

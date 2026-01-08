@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.18
 dv_has_place_latitude: 55.47
-dv_name: Koege
+dv_has_name_: Koege
 dv_Country: "[[../../../../../Denmark]]"
 ---
 #is_a_/Place  

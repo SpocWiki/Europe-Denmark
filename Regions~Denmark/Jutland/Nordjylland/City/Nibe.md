@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.67
 dv_has_place_latitude: 56.98
-dv_name: Nibe
+dv_has_name_: Nibe
 dv_Country: "[[../../../../../Denmark]]"
 ---
 #is_a_/Place  

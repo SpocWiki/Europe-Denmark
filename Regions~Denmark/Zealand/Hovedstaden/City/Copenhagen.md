@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.59
 dv_has_place_latitude: 55.7
-dv_name: Copenhagen
+dv_has_name_: Copenhagen
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Copenhagen,1748|WD~Copenhagen,1748]]"
 dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Copenhagen,1748|WD~Copenhagen,1748]]"

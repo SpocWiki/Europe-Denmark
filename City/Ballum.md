@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.57
 dv_has_place_latitude: 55.1
-dv_name: Ballum
+dv_has_name_: Ballum
 dv_Country: "[[../../Denmark]]"
 ---
 #is_a_/Place  
