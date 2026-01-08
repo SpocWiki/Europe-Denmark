@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33754
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.72
+dv_has_place_latitude: 55.08
+dv_name: Ronne
+dv_Country: "[[../../../../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.72] 
-[has_place_latitude::55.08] 
-[name::Ronne] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ronne](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Ronne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Ronne|Ronne]] 
 
-### [Ronne.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Ronne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Ronne.public|Ronne.public]] 
 
-### [Ronne.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Ronne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Ronne.internal|Ronne.internal]] 
 
-### [Ronne.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Ronne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Ronne.protect|Ronne.protect]] 
 
-### [Ronne.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Ronne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Ronne.private|Ronne.private]] 
 
-### [Ronne.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Ronne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Ronne.personal|Ronne.personal]] 
 
-### [Ronne.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Ronne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Ronne.secret|Ronne.secret]] 
 

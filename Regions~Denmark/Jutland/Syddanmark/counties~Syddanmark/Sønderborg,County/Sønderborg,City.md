@@ -16,14 +16,19 @@ tags:
 SpocWebEntityId: 34366
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.8
+dv_has_place_latitude: 54.92
+dv_name: Sonderburg
+dv_Country: "[[../../../../../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.8] 
-[has_place_latitude::54.92] 
-[name::Sonderburg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -40,17 +45,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sønderborg,City](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City|Sønderborg,City]] 
 
-### [Sønderborg,City.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.public|Sønderborg,City.public]] 
 
-### [Sønderborg,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.internal|Sønderborg,City.internal]] 
 
-### [Sønderborg,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.protect|Sønderborg,City.protect]] 
 
-### [Sønderborg,City.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.private|Sønderborg,City.private]] 
 
-### [Sønderborg,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.personal|Sønderborg,City.personal]] 
 
-### [Sønderborg,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Sønderborg,County/Sønderborg,City.secret|Sønderborg,City.secret]] 
 

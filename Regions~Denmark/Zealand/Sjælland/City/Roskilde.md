@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33776
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.1
+dv_has_place_latitude: 55.63
+dv_name: Roskilde
+dv_Country: "[[../../../../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.1] 
-[has_place_latitude::55.63] 
-[name::Roskilde] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Roskilde](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Roskilde.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Sjælland/City/Roskilde|Roskilde]] 
 
-### [Roskilde.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Roskilde.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Sjælland/City/Roskilde.public|Roskilde.public]] 
 
-### [Roskilde.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Roskilde.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Sjælland/City/Roskilde.internal|Roskilde.internal]] 
 
-### [Roskilde.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Roskilde.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Sjælland/City/Roskilde.protect|Roskilde.protect]] 
 
-### [Roskilde.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Roskilde.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Sjælland/City/Roskilde.private|Roskilde.private]] 
 
-### [Roskilde.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Roskilde.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Sjælland/City/Roskilde.personal|Roskilde.personal]] 
 
-### [Roskilde.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland/City/Roskilde.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Sjælland/City/Roskilde.secret|Roskilde.secret]] 
 

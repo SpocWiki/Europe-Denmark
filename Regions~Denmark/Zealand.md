@@ -4,17 +4,17 @@ aliases:
   - Zealand
 has_id_wikidata: Q25535
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Baltic_Sea,545]]'
-different_from: '[[_Standards/WikiData/WD~Zeeland,705]]'
-instance_of: '[[_Standards/WikiData/WD~island,23442]]'
-named_after: '[[_Standards/WikiData/WD~Phocidae,25587]]'
-part_of: '[[_Standards/WikiData/WD~Denmark,35]]'
-country: '[[_Standards/WikiData/WD~Denmark,35]]'
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Baltic_Sea,545]]"
+different_from: "[[_Standards/WikiData/WD~Zeeland,705]]"
+instance_of: "[[_Standards/WikiData/WD~island,23442]]"
+named_after: "[[_Standards/WikiData/WD~Phocidae,25587]]"
+part_of: "[[_Standards/WikiData/WD~Denmark,35]]"
+country: "[[_Standards/WikiData/WD~Denmark,35]]"
 width: 116
 length: 132
 area: 7031.3
@@ -26,11 +26,14 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Korshage%20Stran
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Seeland.jpg
 Dewey_Decimal_Classification: 2--4891
 name: djævleøen
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Zealand,25535|WD~Zealand,25535]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Zealand,25535|WD~Zealand,25535]]"
 ---
 
 # [[# Zealand]]  
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Zealand,25535|WD~Zealand,25535]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -45,4 +48,21 @@ name: djævleøen
 > Administratively, Zealand is divided between two Danish regions: The Copenhagen metropolitan area and North Zealand belong to the Capital Region, while the major and more rural part of the island belongs to the Zealand Region.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zealand) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand|Zealand]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand.public|Zealand.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand.internal|Zealand.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand.protect|Zealand.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand.private|Zealand.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand.personal|Zealand.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand.secret|Zealand.secret]] 
 

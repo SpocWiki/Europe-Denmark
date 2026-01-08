@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30246
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.55
+dv_has_place_latitude: 57.43
+dv_name: Frederikshavn
+dv_Country: "[[../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.55] 
-[has_place_latitude::57.43] 
-[name::Frederikshavn] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frederikshavn](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Frederikshavn|Frederikshavn]] 
 
-### [Frederikshavn.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.public|Frederikshavn.public]] 
 
-### [Frederikshavn.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.internal|Frederikshavn.internal]] 
 
-### [Frederikshavn.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.protect|Frederikshavn.protect]] 
 
-### [Frederikshavn.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.private|Frederikshavn.private]] 
 
-### [Frederikshavn.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.personal|Frederikshavn.personal]] 
 
-### [Frederikshavn.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Frederikshavn.secret|Frederikshavn.secret]] 
 

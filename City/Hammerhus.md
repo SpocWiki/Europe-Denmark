@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30752
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.63
+dv_has_place_latitude: 55.28
+dv_name: Hammerhus
+dv_Country: "[[../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.63] 
-[has_place_latitude::55.28] 
-[name::Hammerhus] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hammerhus](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus|Hammerhus]] 
 
-### [Hammerhus.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.public|Hammerhus.public]] 
 
-### [Hammerhus.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.internal|Hammerhus.internal]] 
 
-### [Hammerhus.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.protect|Hammerhus.protect]] 
 
-### [Hammerhus.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.private|Hammerhus.private]] 
 
-### [Hammerhus.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.personal|Hammerhus.personal]] 
 
-### [Hammerhus.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Hammerhus.secret|Hammerhus.secret]] 
 

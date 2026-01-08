@@ -5,23 +5,26 @@ aliases:
   - History of Denmark
 has_id_wikidata: Q204680
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q13341434,13341434]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
-facet_of: '[[_Standards/WikiData/WD~Denmark,35]]'
-country: '[[_Standards/WikiData/WD~Denmark,35]]'
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q13341434,13341434]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+facet_of: "[[_Standards/WikiData/WD~Denmark,35]]"
+country: "[[_Standards/WikiData/WD~Denmark,35]]"
 Commons_category: History of Denmark
 Dewey_Decimal_Classification: 948.9
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Denmark,204680]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Denmark,204680]]"
 ---
 
 # [[History_of_Denmark]] 
 
-#is_/same_as :: [[WD~History_of_Denmark,204680]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -39,4 +42,20 @@ Dewey_Decimal_Classification: 948.9
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Denmark) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/History_of_Denmark|History_of_Denmark]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/History_of_Denmark.public|History_of_Denmark.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/History_of_Denmark.internal|History_of_Denmark.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/History_of_Denmark.protect|History_of_Denmark.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/History_of_Denmark.private|History_of_Denmark.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/History_of_Denmark.personal|History_of_Denmark.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/History_of_Denmark.secret|History_of_Denmark.secret]] 
 

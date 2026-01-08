@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28638
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.2
+dv_has_place_latitude: 56.15
+dv_name: Aarhus
+dv_Country: "[[../../../../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.2] 
-[has_place_latitude::56.15] 
-[name::Aarhus] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aarhus](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Midtjylland/City/Aarhus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Midtjylland/City/Aarhus|Aarhus]] 
 
-### [Aarhus.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Midtjylland/City/Aarhus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Midtjylland/City/Aarhus.public|Aarhus.public]] 
 
-### [Aarhus.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Midtjylland/City/Aarhus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Midtjylland/City/Aarhus.internal|Aarhus.internal]] 
 
-### [Aarhus.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Midtjylland/City/Aarhus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Midtjylland/City/Aarhus.protect|Aarhus.protect]] 
 
-### [Aarhus.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Midtjylland/City/Aarhus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Midtjylland/City/Aarhus.private|Aarhus.private]] 
 
-### [Aarhus.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Midtjylland/City/Aarhus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Midtjylland/City/Aarhus.personal|Aarhus.personal]] 
 
-### [Aarhus.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Midtjylland/City/Aarhus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Midtjylland/City/Aarhus.secret|Aarhus.secret]] 
 

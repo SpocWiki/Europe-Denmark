@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32176
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.95
+dv_has_place_latitude: 55.07
+dv_name: Loegumkloster
+dv_Country: "[[../../../../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.95] 
-[has_place_latitude::55.07] 
-[name::Loegumkloster] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Loegumkloster](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Loegumkloster.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/City/Loegumkloster|Loegumkloster]] 
 
-### [Loegumkloster.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Loegumkloster.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/City/Loegumkloster.public|Loegumkloster.public]] 
 
-### [Loegumkloster.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Loegumkloster.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/City/Loegumkloster.internal|Loegumkloster.internal]] 
 
-### [Loegumkloster.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Loegumkloster.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/City/Loegumkloster.protect|Loegumkloster.protect]] 
 
-### [Loegumkloster.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Loegumkloster.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/City/Loegumkloster.private|Loegumkloster.private]] 
 
-### [Loegumkloster.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Loegumkloster.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/City/Loegumkloster.personal|Loegumkloster.personal]] 
 
-### [Loegumkloster.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/City/Loegumkloster.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/City/Loegumkloster.secret|Loegumkloster.secret]] 
 

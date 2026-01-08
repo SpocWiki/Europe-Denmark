@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30881
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.62
+dv_has_place_latitude: 56.03
+dv_name: Helsingoer
+dv_Country: "[[../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.62] 
-[has_place_latitude::56.03] 
-[name::Helsingoer] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Helsingoer](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Helsingoer.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Helsingoer|Helsingoer]] 
 
-### [Helsingoer.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Helsingoer.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Helsingoer.public|Helsingoer.public]] 
 
-### [Helsingoer.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Helsingoer.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Helsingoer.internal|Helsingoer.internal]] 
 
-### [Helsingoer.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Helsingoer.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Helsingoer.protect|Helsingoer.protect]] 
 
-### [Helsingoer.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Helsingoer.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Helsingoer.private|Helsingoer.private]] 
 
-### [Helsingoer.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Helsingoer.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Helsingoer.personal|Helsingoer.personal]] 
 
-### [Helsingoer.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Helsingoer.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Helsingoer.secret|Helsingoer.secret]] 
 

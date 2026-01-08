@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31658
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.62
+dv_has_place_latitude: 56.03
+dv_name: Kronberg
+dv_Country: "[[../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.62] 
-[has_place_latitude::56.03] 
-[name::Kronberg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kronberg](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Kronberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Kronberg|Kronberg]] 
 
-### [Kronberg.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Kronberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Kronberg.public|Kronberg.public]] 
 
-### [Kronberg.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Kronberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Kronberg.internal|Kronberg.internal]] 
 
-### [Kronberg.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Kronberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Kronberg.protect|Kronberg.protect]] 
 
-### [Kronberg.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Kronberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Kronberg.private|Kronberg.private]] 
 
-### [Kronberg.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Kronberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Kronberg.personal|Kronberg.personal]] 
 
-### [Kronberg.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Kronberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Kronberg.secret|Kronberg.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34850
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.68
+dv_has_place_latitude: 56.93
+dv_name: Thisted
+dv_Country: "[[../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.68] 
-[has_place_latitude::56.93] 
-[name::Thisted] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Thisted](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Thisted.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Thisted|Thisted]] 
 
-### [Thisted.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Thisted.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Thisted.public|Thisted.public]] 
 
-### [Thisted.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Thisted.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Thisted.internal|Thisted.internal]] 
 
-### [Thisted.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Thisted.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Thisted.protect|Thisted.protect]] 
 
-### [Thisted.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Thisted.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Thisted.private|Thisted.private]] 
 
-### [Thisted.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Thisted.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Thisted.personal|Thisted.personal]] 
 
-### [Thisted.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Thisted.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Thisted.secret|Thisted.secret]] 
 

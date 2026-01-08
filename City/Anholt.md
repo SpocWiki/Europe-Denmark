@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28830
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.65
+dv_has_place_latitude: 56.73
+dv_name: Anholt
+dv_Country: "[[../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.65] 
-[has_place_latitude::56.73] 
-[name::Anholt] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Anholt](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt|Anholt]] 
 
-### [Anholt.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.public|Anholt.public]] 
 
-### [Anholt.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.internal|Anholt.internal]] 
 
-### [Anholt.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.protect|Anholt.protect]] 
 
-### [Anholt.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.private|Anholt.private]] 
 
-### [Anholt.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.personal|Anholt.personal]] 
 
-### [Anholt.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Anholt.secret|Anholt.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30245
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.38
+dv_has_place_latitude: 55.97
+dv_name: Frederiksborg
+dv_Country: "[[../../../../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.38] 
-[has_place_latitude::55.97] 
-[name::Frederiksborg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frederiksborg](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Frederiksborg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Frederiksborg|Frederiksborg]] 
 
-### [Frederiksborg.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Frederiksborg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Frederiksborg.public|Frederiksborg.public]] 
 
-### [Frederiksborg.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Frederiksborg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Frederiksborg.internal|Frederiksborg.internal]] 
 
-### [Frederiksborg.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Frederiksborg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Frederiksborg.protect|Frederiksborg.protect]] 
 
-### [Frederiksborg.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Frederiksborg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Frederiksborg.private|Frederiksborg.private]] 
 
-### [Frederiksborg.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Frederiksborg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Frederiksborg.personal|Frederiksborg.personal]] 
 
-### [Frederiksborg.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Frederiksborg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Frederiksborg.secret|Frederiksborg.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28998
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.57
+dv_has_place_latitude: 55.1
+dv_name: Ballum
+dv_Country: "[[../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.57] 
-[has_place_latitude::55.1] 
-[name::Ballum] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ballum](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum|Ballum]] 
 
-### [Ballum.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.public|Ballum.public]] 
 
-### [Ballum.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.internal|Ballum.internal]] 
 
-### [Ballum.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.protect|Ballum.protect]] 
 
-### [Ballum.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.private|Ballum.private]] 
 
-### [Ballum.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.personal|Ballum.personal]] 
 
-### [Ballum.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Ballum.secret|Ballum.secret]] 
 

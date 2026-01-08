@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30959
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.65
+dv_has_place_latitude: 57.47
+dv_name: Hjoerring
+dv_Country: "[[../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.65] 
-[has_place_latitude::57.47] 
-[name::Hjoerring] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hjoerring](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Hjoerring.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Hjoerring|Hjoerring]] 
 
-### [Hjoerring.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Hjoerring.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Hjoerring.public|Hjoerring.public]] 
 
-### [Hjoerring.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Hjoerring.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Hjoerring.internal|Hjoerring.internal]] 
 
-### [Hjoerring.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Hjoerring.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Hjoerring.protect|Hjoerring.protect]] 
 
-### [Hjoerring.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Hjoerring.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Hjoerring.private|Hjoerring.private]] 
 
-### [Hjoerring.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Hjoerring.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Hjoerring.personal|Hjoerring.personal]] 
 
-### [Hjoerring.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Hjoerring.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Hjoerring.secret|Hjoerring.secret]] 
 

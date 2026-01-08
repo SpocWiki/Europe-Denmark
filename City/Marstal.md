@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32332
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.52
+dv_has_place_latitude: 54.85
+dv_name: Marstal
+dv_Country: "[[../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.52] 
-[has_place_latitude::54.85] 
-[name::Marstal] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marstal](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Marstal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Marstal|Marstal]] 
 
-### [Marstal.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Marstal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Marstal.public|Marstal.public]] 
 
-### [Marstal.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Marstal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Marstal.internal|Marstal.internal]] 
 
-### [Marstal.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Marstal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Marstal.protect|Marstal.protect]] 
 
-### [Marstal.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Marstal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Marstal.private|Marstal.private]] 
 
-### [Marstal.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Marstal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Marstal.personal|Marstal.personal]] 
 
-### [Marstal.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Marstal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Marstal.secret|Marstal.secret]] 
 

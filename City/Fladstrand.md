@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30178
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.55
+dv_has_place_latitude: 57.45
+dv_name: Fladstrand
+dv_Country: "[[../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.55] 
-[has_place_latitude::57.45] 
-[name::Fladstrand] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fladstrand](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand|Fladstrand]] 
 
-### [Fladstrand.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.public|Fladstrand.public]] 
 
-### [Fladstrand.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.internal|Fladstrand.internal]] 
 
-### [Fladstrand.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.protect|Fladstrand.protect]] 
 
-### [Fladstrand.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.private|Fladstrand.private]] 
 
-### [Fladstrand.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.personal|Fladstrand.personal]] 
 
-### [Fladstrand.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Fladstrand.secret|Fladstrand.secret]] 
 

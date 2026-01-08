@@ -60,17 +60,17 @@ markerFolder: ./Sjaælland/
 
 ## Confidential Links & Embeds: 
 
-### [Sjælland](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Sjælland|Sjælland]] 
 
-### [Sjælland.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Sjælland.public|Sjælland.public]] 
 
-### [Sjælland.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Sjælland.internal|Sjælland.internal]] 
 
-### [Sjælland.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Sjælland.protect|Sjælland.protect]] 
 
-### [Sjælland.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Sjælland.private|Sjælland.private]] 
 
-### [Sjælland.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Sjælland.personal|Sjælland.personal]] 
 
-### [Sjælland.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Sjælland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Sjælland.secret|Sjælland.secret]] 
 

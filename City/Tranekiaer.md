@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34945
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.88
+dv_has_place_latitude: 54.98
+dv_name: Tranekiaer
+dv_Country: "[[../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.88] 
-[has_place_latitude::54.98] 
-[name::Tranekiaer] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tranekiaer](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Tranekiaer|Tranekiaer]] 
 
-### [Tranekiaer.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.public|Tranekiaer.public]] 
 
-### [Tranekiaer.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.internal|Tranekiaer.internal]] 
 
-### [Tranekiaer.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.protect|Tranekiaer.protect]] 
 
-### [Tranekiaer.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.private|Tranekiaer.private]] 
 
-### [Tranekiaer.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.personal|Tranekiaer.personal]] 
 
-### [Tranekiaer.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Tranekiaer.secret|Tranekiaer.secret]] 
 

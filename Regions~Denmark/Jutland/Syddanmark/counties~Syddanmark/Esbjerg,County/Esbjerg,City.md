@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30061
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.43
+dv_has_place_latitude: 55.47
+dv_name: Esbjerg
+dv_Country: "[[../../../../../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.43] 
-[has_place_latitude::55.47] 
-[name::Esbjerg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Esbjerg,City](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City|Esbjerg,City]] 
 
-### [Esbjerg,City.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.public|Esbjerg,City.public]] 
 
-### [Esbjerg,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.internal|Esbjerg,City.internal]] 
 
-### [Esbjerg,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.protect|Esbjerg,City.protect]] 
 
-### [Esbjerg,City.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.private|Esbjerg,City.private]] 
 
-### [Esbjerg,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.personal|Esbjerg,City.personal]] 
 
-### [Esbjerg,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City.secret|Esbjerg,City.secret]] 
 

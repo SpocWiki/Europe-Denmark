@@ -1,7 +1,12 @@
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Jutland,25389|WD~Jutland,25389]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Jutland,25389|WD~Jutland,25389]]"
+---
 
 # [[Jutland]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Jutland,25389|WD~Jutland,25389]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -17,4 +22,21 @@
 > Jutland is connected to Funen by the Old and New Little Belt Bridge, and Funen in turn is connected to Zealand and Copenhagen by the Great Belt Bridge.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jutland) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland|Jutland]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland.public|Jutland.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland.internal|Jutland.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland.protect|Jutland.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland.private|Jutland.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland.personal|Jutland.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Jutland.secret|Jutland.secret]] 
 

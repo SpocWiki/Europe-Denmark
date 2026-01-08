@@ -141,30 +141,98 @@ topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Faroe_Islands,82
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Faroe_Islands_topics,10530789]]"
 total_fertility_rate: 2.6
 top_level_Internet_domain: "[[_Standards/WikiData/WD~.fo,41446]]"
+dv_ISO4217-currency_alphabetic: DKK
+dv_ISO4217-currency_name: Danish Krone
+dv_ISO4217-currency_numeric: 208
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: FAROE ISLANDS
+dv_Telephone: 298
+dv_Global: true
+dv_Global_Name: World
+dv_name: Faroe Islands
+dv_name-en:
+  - Faroe Islands
+  - Faeroe Islands
+dv_name-es: Islas Feroe
+dv_name-fr: Îles Féroé
+dv_name-cn: 法罗群岛
+dv_name-ar: جزر فايرو
+dv_name-ru: Фарерские острова
+dv_CLDR_display_name: Faroe Islands
+dv_Region_Name: "[[../../../../Europe]]"
+dv_Intermediate_Region_Name: "[[Faroe_Islands]]"
+dv_Sub-region_Name: "[[Northern Europe]]"
+dv_Region: 150
+dv_Sub-region: 154
+dv_Geoname-ID: 2622320
+dv_FIPS: FO
+dv_FIFA: FRO
+dv_IOC: FAR
+dv_MARC: fa
+dv_GAUL: 82
+dv_WMO: FA
+dv_ITU: FRO
+dv_DS: FO
+dv_TLD: .fo
+dv_EDGAR: H6
+dv_M49: 234
+dv_is_independent: Part of DK
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 234
+dv_ISO2: FO
+dv_ISO3: FRO
+dv_is_:
+  same_as:
+    - "[[../../../../../../WikiData/WD~Faroe_Islands,4628|WD~Faroe_Islands,4628]]"
+    - "[Faroe_Islands](Faroe_Islands.md)"
+    - "[Faroe~Islands.public](/_public/Earth/Continent/Europe/Europe~North/Faroe~Islands.public.md)"
+    - "[Faroe~Islands.internal](/_internal/Earth/Continent/Europe/Europe~North/Faroe~Islands.internal.md)"
+    - "[Faroe~Islands.protect](/_protect/Earth/Continent/Europe/Europe~North/Faroe~Islands.protect.md)"
+    - "[Faroe~Islands.private](/_private/Earth/Continent/Europe/Europe~North/Faroe~Islands.private.md)"
+    - "[Faroe~Islands.personal](/_personal/Earth/Continent/Europe/Europe~North/Faroe~Islands.personal.md)"
+    - "[Faroe~Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/Faroe~Islands.secret.md)"
+dv_name-de: Färöer Inseln
+dv_Area-Total: 0
+dv_Area-Land: 0
+dv_has_place_continent: "[[../../../../Europe]]"
+dv_VehicleCode: FO
+dv_has_place_longitude: -6.78333
+dv_has_place_latitude: 62
+dv_developed_developing_countries: Developed
+dv_is_same_as:
+  - "[[../../../../../../WikiData/WD~Faroe_Islands,4628|WD~Faroe_Islands,4628]]"
+  - "[Faroe_Islands](Faroe_Islands.md)"
+  - "[Faroe~Islands.public](/_public/Earth/Continent/Europe/Europe~North/Faroe~Islands.public.md)"
+  - "[Faroe~Islands.internal](/_internal/Earth/Continent/Europe/Europe~North/Faroe~Islands.internal.md)"
+  - "[Faroe~Islands.protect](/_protect/Earth/Continent/Europe/Europe~North/Faroe~Islands.protect.md)"
+  - "[Faroe~Islands.private](/_private/Earth/Continent/Europe/Europe~North/Faroe~Islands.private.md)"
+  - "[Faroe~Islands.personal](/_personal/Earth/Continent/Europe/Europe~North/Faroe~Islands.personal.md)"
+  - "[Faroe~Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/Faroe~Islands.secret.md)"
 ---
 
 # [[Faroe_Islands]] 
 
-[	ISO4217-currency_alphabetic	 :: DKK ] 
-[	ISO4217-currency_name	 :: Danish Krone ] 
-[	ISO4217-currency_numeric	 :: 208 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: FAROE ISLANDS ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 298 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Faroe Islands ]
+name = `=this.dv_name`
 [	name-en	 :: Faroe Islands ]
-[	name-es	 :: Islas Feroe ]
-[	name-fr	 :: Îles Féroé ]
-[	name-cn	 :: 法罗群岛 ]
-[	name-ar	 :: جزر فايرو ]
-[	name-ru	 :: Фарерские острова ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Faroe Islands ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
 [	UNTERM_English	 ::  ]
 [	UNTERM_English_Formal	 ::  ]
@@ -179,37 +247,37 @@ top_level_Internet_domain: "[[_Standards/WikiData/WD~.fo,41446]]"
 [	UNTERM_Russian	 ::  ]
 [	UNTERM_Russian_Formal	 ::  ]
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Northern Europe]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 154 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2622320 ]
-[	FIPS	 :: FO ]
-[	FIFA	 :: FRO ]
-[	IOC	 :: FAR ]
-[	MARC	 :: fa ]
-[	GAUL	 :: 82 ]
-[	WMO	 :: FA ]
-[	ITU	 :: FRO ]
-[	DS	 :: FO ]
-[	TLD	 :: .fo ]
-[	EDGAR	 :: H6 ]
-[	M49	 :: 234 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Part of DK ]
-[	Developed_/Developing_Countries	 :: Developed ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ] 
 
-[	ISO3166-1-numeric	 :: 234 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::FO]
-[ISO3::FRO]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Faroe_Islands,4628|WD~Faroe_Islands,4628]] 
 
@@ -225,16 +293,16 @@ markerFolder: ./Faroe~Islands//
 ```
 
 [name-en::Faeroe Islands]
-[name-de::Färöer Inseln]
-[Area-Total::0]
-[Area-Land::0]
-has_place_continent:: [[Europe]]  
-[VehicleCode::FO]
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Faroe_Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn]]  
 [Alcohol-l::]
 [Language-Id::]
-[has_place_longitude::-6.78333]
-[has_place_latitude::62]
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 
@@ -254,16 +322,17 @@ Capital :: [[Faroe_Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshav
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Faroe_Islands](Faroe_Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Faroe_Islands|Faroe_Islands]] 
 
-### #is_/same_as :: [Faroe~Islands.public](/_public/Earth/Continent/Europe/Europe~North/Faroe~Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Faroe_Islands.public|Faroe_Islands.public]] 
 
-### #is_/same_as :: [Faroe~Islands.internal](/_internal/Earth/Continent/Europe/Europe~North/Faroe~Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Faroe_Islands.internal|Faroe_Islands.internal]] 
 
-### #is_/same_as :: [Faroe~Islands.protect](/_protect/Earth/Continent/Europe/Europe~North/Faroe~Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Faroe_Islands.protect|Faroe_Islands.protect]] 
 
-### #is_/same_as :: [Faroe~Islands.private](/_private/Earth/Continent/Europe/Europe~North/Faroe~Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Faroe_Islands.private|Faroe_Islands.private]] 
 
-### #is_/same_as :: [Faroe~Islands.personal](/_personal/Earth/Continent/Europe/Europe~North/Faroe~Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Faroe_Islands.personal|Faroe_Islands.personal]] 
 
-### #is_/same_as :: [Faroe~Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/Faroe~Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Faroe_Islands.secret|Faroe_Islands.secret]] 
+

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34427
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.97
+dv_has_place_latitude: 55.33
+dv_name: Srogoe
+dv_Country: "[[../../Denmark]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.97] 
-[has_place_latitude::55.33] 
-[name::Srogoe] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Denmark]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Srogoe](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe|Srogoe]] 
 
-### [Srogoe.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.public|Srogoe.public]] 
 
-### [Srogoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.internal|Srogoe.internal]] 
 
-### [Srogoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.protect|Srogoe.protect]] 
 
-### [Srogoe.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.private|Srogoe.private]] 
 
-### [Srogoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.personal|Srogoe.personal]] 
 
-### [Srogoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/City/Srogoe.secret|Srogoe.secret]] 
 

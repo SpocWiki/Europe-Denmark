@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~University_of_Copenhagen,186285|WD~University_of_Copenhagen,186285]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~University_of_Copenhagen,186285|WD~University_of_Copenhagen,186285]]"
+
 has_time_started: 1479-06-10 
 aliases:
   - University of Copenhagen
@@ -100,7 +104,7 @@ CVR_number: 29979812
 
 # [[University_of_Copenhagen]]  
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~University_of_Copenhagen,186285|WD~University_of_Copenhagen,186285]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -116,4 +120,21 @@ CVR_number: 29979812
 > As of October 2022, 10 Nobel laureates and 1 Turing Award laureate have been affiliated with the University of Copenhagen as students, alumni or faculty. Alumni include one president of the United Nations General Assembly and at least 24 prime ministers of Denmark.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/University%20of%20Copenhagen) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/University_of_Copenhagen|University_of_Copenhagen]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/University_of_Copenhagen.public|University_of_Copenhagen.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/University_of_Copenhagen.internal|University_of_Copenhagen.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/University_of_Copenhagen.protect|University_of_Copenhagen.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/University_of_Copenhagen.private|University_of_Copenhagen.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/University_of_Copenhagen.personal|University_of_Copenhagen.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/University_of_Copenhagen.secret|University_of_Copenhagen.secret]] 
 

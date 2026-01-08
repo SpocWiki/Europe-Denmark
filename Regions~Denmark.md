@@ -36,17 +36,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Regions~Denmark](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark|Regions~Denmark]] 
 
-### [Regions~Denmark.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.public|Regions~Denmark.public]] 
 
-### [Regions~Denmark.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.internal|Regions~Denmark.internal]] 
 
-### [Regions~Denmark.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.protect|Regions~Denmark.protect]] 
 
-### [Regions~Denmark.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.private|Regions~Denmark.private]] 
 
-### [Regions~Denmark.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.personal|Regions~Denmark.personal]] 
 
-### [Regions~Denmark.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark.secret|Regions~Denmark.secret]] 
 

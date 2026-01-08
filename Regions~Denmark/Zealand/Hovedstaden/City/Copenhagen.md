@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.59
+dv_has_place_latitude: 55.7
+dv_name: Copenhagen
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Copenhagen,1748|WD~Copenhagen,1748]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Copenhagen,1748|WD~Copenhagen,1748]]"
+
 has_time_started: 1167-01-01 
 aliases:
   - Kopenhagen
@@ -141,17 +149,17 @@ IMDb_keyword: copenhagen-denmark
 # [[Copenhagen]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.59] 
-[has_place_latitude::55.7] 
-[name::Copenhagen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Denmark]]  
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Copenhagen,1748|WD~Copenhagen,1748]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -202,19 +210,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Copenhagen) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Copenhagen](/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Copenhagen|Copenhagen]] 
 
-### [Copenhagen.public](/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Copenhagen.public|Copenhagen.public]] 
 
-### [Copenhagen.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Copenhagen.internal|Copenhagen.internal]] 
 
-### [Copenhagen.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Copenhagen.protect|Copenhagen.protect]] 
 
-### [Copenhagen.private](/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Copenhagen.private|Copenhagen.private]] 
 
-### [Copenhagen.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Copenhagen.personal|Copenhagen.personal]] 
 
-### [Copenhagen.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Copenhagen.secret|Copenhagen.secret]] 
 
