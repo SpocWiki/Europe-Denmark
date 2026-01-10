@@ -16,7 +16,7 @@ tags:
 type: City
 dv_has_place_longitude: -6.783333
 dv_has_place_latitude: 62
-dv_has_name_: Tórshavn
+dv_has_name: Tórshavn
 dv_has_place_country: "[[../../../Faroe~Islands]]"
 dv_Unknown: 32
 dv_is_:
@@ -40,7 +40,7 @@ dv_is_same_as:
 
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_place_province::  
 has_place_country = `=this.dv_has_place_country`
 [StateId::] 
