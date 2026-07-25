@@ -364,7 +364,7 @@ dv_UNTERM_Chinese_Formal: 丹麦王国
 dv_UNTERM_French_Formal: le Royaume du Danemark
 dv_UNTERM_Russian: Дания
 dv_UNTERM_Russian_Formal: Королевство Дания
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Denmark]]'
 dv_Sub-region_Name: '[[Northern Europe]]'
 dv_Region: 150
@@ -389,7 +389,7 @@ dv_ISO2: DK
 dv_ISO3: DNK
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Denmark,35|WD~Denmark,35]]'
+  - '[[../../../../../WikiData/WD~Denmark,35|WD~Denmark,35]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~North/Denmark|Denmark]]'
   - '[[/_public/Earth/Continent/Europe/Europe~North/Denmark.public|Denmark.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~North/Denmark.internal|Denmark.internal]]'
@@ -400,17 +400,17 @@ dv_is_:
 dv_has_name_de: Dänemark
 dv_Area-Total: 43094
 dv_Area-Land: 42430
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: DK
-dv_Capital: '[[Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Copenhagen|Copenhagen]]'
+dv_Capital: '[[Regions~Denmark/Zealand/Hovedstaden/City/Copenhagen|Copenhagen]]'
 dv_Alcohol-l: 13.4
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 10.5
 dv_has_place_latitude: 55.6789
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Denmark
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Denmark,35|WD~Denmark,35]]'
+- '[[../../../../../WikiData/WD~Denmark,35|WD~Denmark,35]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~North/Denmark|Denmark]]'
 - '[[/_public/Earth/Continent/Europe/Europe~North/Denmark.public|Denmark.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~North/Denmark.internal|Denmark.internal]]'
@@ -612,7 +612,7 @@ Languages:
 - de-DK
 icon: flag-dk
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~Nordic_Council,146165|WD~Nordic_Council,146165]]'
 - '[[/_Standards/WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]]'
 - '[[/_Standards/WikiData/WD~European_Free_Trade_Association,166546|WD~European_Free_Trade_Association,166546]]'
@@ -781,7 +781,7 @@ diplomatic_relation:
 - '[[/_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]'
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
 - '[[/_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]'
@@ -1166,7 +1166,7 @@ is_a = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Denmark)
-into a Subfolder named `Denmark`, so that this Link into the Sub-Repository works: [[Denmark/ReadMe|ReadMe]] 
+into a Subfolder named `Denmark`, so that this Link into the Sub-Repository works: [[ReadMe|ReadMe]] 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
@@ -1190,7 +1190,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Denmark_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1216,7 +1216,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Denmark.svg|350]] 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Denmark.mp3|Anthem-Denmark.mp3]]  
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Denmark.mp3|Anthem-Denmark.mp3]]  
 ![[Flag_of_Denmark.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
@@ -1235,11 +1235,11 @@ with numbers as of 2022-06
 
 | Region                     | Pop/k |   kkm² | GDP/G€ | GDPpP/k€ |   HDI | Notable Properties                                 |
 | -------------------------- | ----: | -----: | -----: | -------: | ----: | -------------------------------------------------- |
-| [[Denmark/Regions~Denmark/Zealand/Hovedstaden\|Capital Region of Denmark]]  |  1910 |  2.568 |  161.1 |     84.3 | 0.970 | Includes Copenhagen; economic and political center |
-| [[Denmark/Regions~Denmark/Jutland/Midtjylland\|Central Denmark Region]]     |  1333 | 13.053 |   69.7 |     53.1 | 0.948 | Home to Aarhus; diverse economy                    |
-| [[Denmark/Regions~Denmark/Jutland/Nordjylland\|North Denmark Region]]       |   590 |  7.933 |   26.9 |     45.7 | 0.931 | Includes Aalborg; significant energy sector        |
-| [[Denmark/Regions~Denmark/Jutland/Syddanmark\|Region of Southern Denmark]] |  1223 | 12.191 |   55.9 |     45.7 | 0.940 | Includes Odense; strong manufacturing base         |
-| [[Denmark/Regions~Denmark/Zealand/Sjælland\|Region Zealand]]             |   835 |  7.273 |   36.2 |     43.4 | 0.938 | Surrounds Copenhagen; mix of urban and rural areas |
+| [[Regions~Denmark/Zealand/Hovedstaden/|Capital Region of Denmark]]  |  1910 |  2.568 |  161.1 |     84.3 | 0.970 | Includes Copenhagen; economic and political center |
+| [[Regions~Denmark/Jutland/Midtjylland/|Central Denmark Region]]     |  1333 | 13.053 |   69.7 |     53.1 | 0.948 | Home to Aarhus; diverse economy                    |
+| [[Regions~Denmark/Jutland/Nordjylland/|North Denmark Region]]       |   590 |  7.933 |   26.9 |     45.7 | 0.931 | Includes Aalborg; significant energy sector        |
+| [[Regions~Denmark/Jutland/Syddanmark/|Region of Southern Denmark]] |  1223 | 12.191 |   55.9 |     45.7 | 0.940 | Includes Odense; strong manufacturing base         |
+| [[Regions~Denmark/Zealand/Sjælland/|Region Zealand]]             |   835 |  7.273 |   36.2 |     43.4 | 0.938 | Surrounds Copenhagen; mix of urban and rural areas |
 
 ## #has_/place_/city   
 
@@ -1247,15 +1247,15 @@ Major Cities with Population in 1000s as of @2024
 
 | City                                                                | Region                                                             |    Pop/k |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | -------: |
-| [[Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Copenhagen\|Copenhagen]] | [[Denmark/Regions~Denmark/Zealand/Hovedstaden\|Capital Region of Denmark]] | 1378.649 |
-| [[Denmark/Regions~Denmark/Jutland/Midtjylland/City/Aarhus\|Aarhus]]         | [[Denmark/Regions~Denmark/Jutland/Midtjylland\|Central Denmark Region]]    |  295.688 |
-| [[Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Odense,County/Odense,City\|Odense]]          | [[Denmark/Regions~Denmark/Jutland/Syddanmark\|Region of Southern Denmark]] |  183.763 |
-| [[Denmark/Regions~Denmark/Jutland/Nordjylland/City/Aalborg\|Aalborg]]       | [[Denmark/Regions~Denmark/Jutland/Nordjylland\|North Denmark Region]]      |  120.700 |
-| [[Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City\|Esbjerg]]                                   | [[Denmark/Regions~Denmark/Jutland/Syddanmark\|Region of Southern Denmark]] |   71.505 |
-| [[Denmark/Regions~Denmark/Jutland/Midtjylland/City/Randers\|Randers]]       | [[Denmark/Regions~Denmark/Jutland/Midtjylland\|Central Denmark Region]]    |   64.158 |
-| [[Horsens]]                                                         | [[Denmark/Regions~Denmark/Jutland/Midtjylland\|Central Denmark Region]]    |   63.903 |
-| [[Kolding]]                                                         | [[Denmark/Regions~Denmark/Jutland/Syddanmark\|Region of Southern Denmark]] |   62.444 |
-| [[Denmark/Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Vejle,County/Vejle,City\|Vejle]]            | [[Denmark/Regions~Denmark/Jutland/Syddanmark\|Region of Southern Denmark]] |   61.706 |
+| [[Regions~Denmark/Zealand/Hovedstaden/City/Copenhagen/|Copenhagen]] | [[Regions~Denmark/Zealand/Hovedstaden/|Capital Region of Denmark]] | 1378.649 |
+| [[Regions~Denmark/Jutland/Midtjylland/City/Aarhus/|Aarhus]]         | [[Regions~Denmark/Jutland/Midtjylland/|Central Denmark Region]]    |  295.688 |
+| [[Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Odense,County/Odense,City/|Odense]]          | [[Regions~Denmark/Jutland/Syddanmark/|Region of Southern Denmark]] |  183.763 |
+| [[Regions~Denmark/Jutland/Nordjylland/City/Aalborg/|Aalborg]]       | [[Regions~Denmark/Jutland/Nordjylland/|North Denmark Region]]      |  120.700 |
+| [[Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City/|Esbjerg]]                                   | [[Regions~Denmark/Jutland/Syddanmark/|Region of Southern Denmark]] |   71.505 |
+| [[Regions~Denmark/Jutland/Midtjylland/City/Randers/|Randers]]       | [[Regions~Denmark/Jutland/Midtjylland/|Central Denmark Region]]    |   64.158 |
+| [[Horsens]]                                                         | [[Regions~Denmark/Jutland/Midtjylland/|Central Denmark Region]]    |   63.903 |
+| [[Kolding]]                                                         | [[Regions~Denmark/Jutland/Syddanmark/|Region of Southern Denmark]] |   62.444 |
+| [[Regions~Denmark/Jutland/Syddanmark/counties~Syddanmark/Vejle,County/Vejle,City/|Vejle]]            | [[Regions~Denmark/Jutland/Syddanmark/|Region of Southern Denmark]] |   61.706 |
 
 
 ## #has_/text_of_/abstract 
